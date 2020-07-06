@@ -1,0 +1,5572 @@
+MUNICIPIO;QUANTIDADE
+110001 Alta Floresta D'Oeste;35
+110037 Alto Alegre dos Parecis;14
+110040 Alto Paraíso;19
+110034 Alvorada D'Oeste;22
+110002 Ariquemes;127
+110045 Buritis;32
+110003 Cabixi;11
+110060 Cacaulândia;7
+110004 Cacoal;355
+110070 Campo Novo de Rondônia;13
+110080 Candeias do Jamari;13
+110090 Castanheiras;6
+110005 Cerejeiras;22
+110092 Chupinguaia;21
+110006 Colorado do Oeste;23
+110007 Corumbiara;13
+110008 Costa Marques;8
+110094 Cujubim;12
+110009 Espigão D'Oeste;45
+110100 Governador Jorge Teixeira;12
+110010 Guajará-Mirim;43
+110110 Itapuã do Oeste;10
+110011 Jaru;129
+110012 Ji-Paraná;432
+110013 Machadinho D'Oeste;29
+110120 Ministro Andreazza;13
+110130 Mirante da Serra;10
+110140 Monte Negro;10
+110014 Nova Brasilândia D'Oeste;20
+110033 Nova Mamoré;17
+110143 Nova União;7
+110050 Novo Horizonte do Oeste;7
+110015 Ouro Preto do Oeste;72
+110145 Parecis;6
+110018 Pimenta Bueno;123
+110146 Pimenteiras do Oeste;5
+110020 Porto Velho;790
+110025 Presidente Médici;30
+110147 Primavera de Rondônia;3
+110026 Rio Crespo;5
+110028 Rolim de Moura;125
+110029 Santa Luzia D'Oeste;13
+110148 São Felipe D'Oeste;6
+110149 São Francisco do Guaporé;18
+110032 São Miguel do Guaporé;25
+110150 Seringueiras;11
+110155 Teixeirópolis;6
+110160 Theobroma;10
+110170 Urupá;11
+110175 Vale do Anari;11
+110180 Vale do Paraíso;7
+110030 Vilhena;305
+120001 Acrelândia;11
+120005 Assis Brasil;11
+120010 Brasiléia;21
+120013 Bujari;9
+120017 Capixaba;10
+120020 Cruzeiro do Sul;105
+120025 Epitaciolândia;12
+120030 Feijó;16
+120032 Jordão;7
+120033 Mâncio Lima;20
+120034 Manoel Urbano;10
+120035 Marechal Thaumaturgo;11
+120038 Plácido de Castro;16
+120080 Porto Acre;11
+120039 Porto Walter;11
+120040 Rio Branco;525
+120042 Rodrigues Alves;14
+120043 Santa Rosa do Purus;7
+120050 Sena Madureira;35
+120045 Senador Guiomard;19
+120060 Tarauacá;24
+120070 Xapuri;13
+130002 Alvarães;14
+130006 Amaturá;14
+130008 Anamã;16
+130010 Anori;7
+130014 Apuí;13
+130020 Atalaia do Norte;18
+130030 Autazes;24
+130040 Barcelos;25
+130050 Barreirinha;21
+130060 Benjamin Constant;23
+130063 Beruri;7
+130068 Boa Vista do Ramos;7
+130070 Boca do Acre;15
+130080 Borba;14
+130083 Caapiranga;8
+130090 Canutama;4
+130100 Carauari;18
+130110 Careiro;19
+130115 Careiro da Várzea;19
+130120 Coari;31
+130130 Codajás;13
+130140 Eirunepé;13
+130150 Envira;7
+130160 Fonte Boa;10
+130165 Guajará;12
+130170 Humaitá;40
+130180 Ipixuna;11
+130185 Iranduba;31
+130190 Itacoatiara;38
+130195 Itamarati;8
+130200 Itapiranga;9
+130210 Japurá;9
+130220 Juruá;6
+130230 Jutaí;12
+130240 Lábrea;27
+130250 Manacapuru;33
+130255 Manaquiri;11
+130260 Manaus;1319
+130270 Manicoré;18
+130280 Maraã;11
+130290 Maués;24
+130300 Nhamundá;16
+130310 Nova Olinda do Norte;22
+130320 Novo Airão;7
+130330 Novo Aripuanã;11
+130340 Parintins;53
+130350 Pauini;10
+130353 Presidente Figueiredo;39
+130356 Rio Preto da Eva;24
+130360 Santa Isabel do Rio Negro;28
+130370 Santo Antônio do Içá;21
+130380 São Gabriel da Cachoeira;49
+130390 São Paulo de Olivença;20
+130395 São Sebastião do Uatumã;8
+130400 Silves;12
+130406 Tabatinga;30
+130410 Tapauá;17
+130420 Tefé;43
+130423 Tonantins;12
+130426 Uarini;5
+130430 Urucará;10
+130440 Urucurituba;10
+140005 Alto Alegre;47
+140002 Amajari;40
+140010 Boa Vista;397
+140015 Bonfim;29
+140017 Cantá;24
+140020 Caracaraí;22
+140023 Caroebe;9
+140028 Iracema;11
+140030 Mucajaí;22
+140040 Normandia;17
+140045 Pacaraima;15
+140047 Rorainópolis;34
+140050 São João da Baliza;12
+140060 São Luiz;14
+140070 Uiramutã;10
+150010 Abaetetuba;111
+150013 Abel Figueiredo;7
+150020 Acará;27
+150030 Afuá;17
+150034 Água Azul do Norte;20
+150040 Alenquer;20
+150050 Almeirim;21
+150060 Altamira;103
+150070 Anajás;11
+150080 Ananindeua;252
+150085 Anapu;25
+150090 Augusto Corrêa;36
+150095 Aurora do Pará;18
+150100 Aveiro;10
+150110 Bagre;17
+150120 Baião;25
+150125 Bannach;14
+150130 Barcarena;102
+150140 Belém;1989
+150145 Belterra;19
+150150 Benevides;31
+150157 Bom Jesus do Tocantins;13
+150160 Bonito;17
+150170 Bragança;83
+150172 Brasil Novo;23
+150175 Brejo Grande do Araguaia;15
+150178 Breu Branco;36
+150180 Breves;56
+150190 Bujaru;21
+150200 Cachoeira do Arari;17
+150195 Cachoeira do Piriá;21
+150210 Cametá;85
+150215 Canaã dos Carajás;90
+150220 Capanema;85
+150230 Capitão Poço;41
+150240 Castanhal;206
+150250 Chaves;25
+150260 Colares;13
+150270 Conceição do Araguaia;59
+150275 Concórdia do Pará;14
+150276 Cumaru do Norte;21
+150277 Curionópolis;15
+150280 Curralinho;15
+150285 Curuá;12
+150290 Curuçá;30
+150293 Dom Eliseu;40
+150295 Eldorado do Carajás;20
+150300 Faro;8
+150304 Floresta do Araguaia;17
+150307 Garrafão do Norte;20
+150309 Goianésia do Pará;29
+150310 Gurupá;26
+150320 Igarapé-Açu;27
+150330 Igarapé-Miri;27
+150340 Inhangapi;14
+150345 Ipixuna do Pará;31
+150350 Irituia;19
+150360 Itaituba;72
+150370 Itupiranga;19
+150375 Jacareacanga;31
+150380 Jacundá;26
+150390 Juruti;28
+150400 Limoeiro do Ajuru;25
+150405 Mãe do Rio;20
+150410 Magalhães Barata;18
+150420 Marabá;257
+150430 Maracanã;25
+150440 Marapanim;27
+150442 Marituba;47
+150445 Medicilândia;18
+150450 Melgaço;16
+150460 Mocajuba;17
+150470 Moju;20
+150475 Mojuí dos Campos;16
+150480 Monte Alegre;41
+150490 Muaná;14
+150495 Nova Esperança do Piriá;18
+150497 Nova Ipixuna;11
+150500 Nova Timboteua;16
+150503 Novo Progresso;34
+150506 Novo Repartimento;44
+150510 Óbidos;41
+150520 Oeiras do Pará;18
+150530 Oriximiná;47
+150540 Ourém;21
+150543 Ourilândia do Norte;48
+150548 Pacajá;26
+150549 Palestina do Pará;9
+150550 Paragominas;97
+150553 Parauapebas;288
+150555 Pau D'Arco;16
+150560 Peixe-Boi;8
+150563 Piçarra;16
+150565 Placas;10
+150570 Ponta de Pedras;10
+150580 Portel;26
+150590 Porto de Moz;18
+150600 Prainha;17
+150610 Primavera;13
+150611 Quatipuru;8
+150613 Redenção;96
+150616 Rio Maria;24
+150618 Rondon do Pará;36
+150619 Rurópolis;14
+150620 Salinópolis;34
+150630 Salvaterra;16
+150635 Santa Bárbara do Pará;10
+150640 Santa Cruz do Arari;9
+150650 Santa Izabel do Pará;53
+150655 Santa Luzia do Pará;21
+150658 Santa Maria das Barreiras;16
+150660 Santa Maria do Pará;18
+150670 Santana do Araguaia;41
+150680 Santarém;294
+150690 Santarém Novo;12
+150700 Santo Antônio do Tauá;23
+150710 São Caetano de Odivelas;18
+150715 São Domingos do Araguaia;18
+150720 São Domingos do Capim;26
+150730 São Félix do Xingu;61
+150740 São Francisco do Pará;14
+150745 São Geraldo do Araguaia;23
+150746 São João da Ponta;11
+150747 São João de Pirabas;18
+150750 São João do Araguaia;17
+150760 São Miguel do Guamá;39
+150770 São Sebastião da Boa Vista;21
+150775 Sapucaia;8
+150780 Senador José Porfírio;14
+150790 Soure;12
+150795 Tailândia;28
+150796 Terra Alta;8
+150797 Terra Santa;14
+150800 Tomé-Açu;26
+150803 Tracuateua;31
+150805 Trairão;14
+150808 Tucumã;50
+150810 Tucuruí;97
+150812 Ulianópolis;33
+150815 Uruará;25
+150820 Vigia;28
+150830 Viseu;32
+150835 Vitória do Xingu;24
+150840 Xinguara;47
+160010 Amapá;14
+160020 Calçoene;9
+160021 Cutias;7
+160023 Ferreira Gomes;13
+160025 Itaubal;13
+160027 Laranjal do Jari;25
+160030 Macapá;407
+160040 Mazagão;26
+160050 Oiapoque;30
+160015 Pedra Branca do Amapari;15
+160053 Porto Grande;22
+160055 Pracuúba;8
+160060 Santana;54
+160005 Serra do Navio;10
+160070 Tartarugalzinho;24
+160080 Vitória do Jari;11
+170025 Abreulândia;3
+170030 Aguiarnópolis;6
+170035 Aliança do Tocantins;7
+170040 Almas;5
+170070 Alvorada;16
+170100 Ananás;7
+170105 Angico;5
+170110 Aparecida do Rio Negro;5
+170130 Aragominas;5
+170190 Araguacema;6
+170200 Araguaçu;14
+170210 Araguaína;255
+170215 Araguanã;8
+170220 Araguatins;25
+170230 Arapoema;5
+170240 Arraias;10
+170255 Augustinópolis;19
+170270 Aurora do Tocantins;3
+170290 Axixá do Tocantins;8
+170300 Babaçulândia;9
+170305 Bandeirantes do Tocantins;3
+170307 Barra do Ouro;4
+170310 Barrolândia;6
+170320 Bernardo Sayão;2
+170330 Bom Jesus do Tocantins;4
+170360 Brasilândia do Tocantins;4
+170370 Brejinho de Nazaré;5
+170380 Buriti do Tocantins;9
+170382 Cachoeirinha;3
+170384 Campos Lindos;2
+170386 Cariri do Tocantins;7
+170388 Carmolândia;3
+170389 Carrasco Bonito;7
+170390 Caseara;4
+170410 Centenário;2
+170510 Chapada da Natividade;4
+170460 Chapada de Areia;4
+170550 Colinas do Tocantins;49
+171670 Colméia;11
+170555 Combinado;5
+170560 Conceição do Tocantins;6
+170600 Couto Magalhães;7
+170610 Cristalândia;6
+170625 Crixás do Tocantins;3
+170650 Darcinópolis;5
+170700 Dianópolis;21
+170710 Divinópolis do Tocantins;8
+170720 Dois Irmãos do Tocantins;7
+170730 Dueré;8
+170740 Esperantina;5
+170755 Fátima;6
+170765 Figueirópolis;3
+170770 Filadélfia;6
+170820 Formoso do Araguaia;10
+170825 Fortaleza do Tabocão;3
+170830 Goianorte;6
+170900 Goiatins;10
+170930 Guaraí;33
+170950 Gurupi;178
+170980 Ipueiras;4
+171050 Itacajá;13
+171070 Itaguatins;6
+171090 Itapiratins;5
+171110 Itaporã do Tocantins;5
+171150 Jaú do Tocantins;7
+171180 Juarina;3
+171190 Lagoa da Confusão;9
+171195 Lagoa do Tocantins;5
+171200 Lajeado;6
+171215 Lavandeira;3
+171240 Lizarda;4
+171245 Luzinópolis;3
+171250 Marianópolis do Tocantins;5
+171270 Mateiros;4
+171280 Maurilândia do Tocantins;6
+171320 Miracema do Tocantins;24
+171330 Miranorte;17
+171360 Monte do Carmo;7
+171370 Monte Santo do Tocantins;4
+171395 Muricilândia;3
+171420 Natividade;11
+171430 Nazaré;8
+171488 Nova Olinda;10
+171500 Nova Rosalândia;4
+171510 Novo Acordo;5
+171515 Novo Alegre;5
+171525 Novo Jardim;3
+171550 Oliveira de Fátima;3
+172100 Palmas;610
+171570 Palmeirante;4
+171380 Palmeiras do Tocantins;3
+171575 Palmeirópolis;12
+171610 Paraíso do Tocantins;68
+171620 Paranã;9
+171630 Pau D'Arco;4
+171650 Pedro Afonso;12
+171660 Peixe;10
+171665 Pequizeiro;6
+171700 Pindorama do Tocantins;6
+171720 Piraquê;5
+171750 Pium;10
+171780 Ponte Alta do Bom Jesus;5
+171790 Ponte Alta do Tocantins;3
+171800 Porto Alegre do Tocantins;5
+171820 Porto Nacional;87
+171830 Praia Norte;9
+171840 Presidente Kennedy;4
+171845 Pugmil;4
+171850 Recursolândia;3
+171855 Riachinho;5
+171865 Rio da Conceição;4
+171870 Rio dos Bois;4
+171875 Rio Sono;7
+171880 Sampaio;4
+171884 Sandolândia;3
+171886 Santa Fé do Araguaia;7
+171888 Santa Maria do Tocantins;3
+171889 Santa Rita do Tocantins;4
+171890 Santa Rosa do Tocantins;6
+171900 Santa Tereza do Tocantins;3
+172000 Santa Terezinha do Tocantins;5
+172010 São Bento do Tocantins;6
+172015 São Félix do Tocantins;4
+172020 São Miguel do Tocantins;4
+172025 São Salvador do Tocantins;5
+172030 São Sebastião do Tocantins;4
+172049 São Valério;5
+172065 Silvanópolis;8
+172080 Sítio Novo do Tocantins;11
+172085 Sucupira;4
+172090 Taguatinga;8
+172093 Taipas do Tocantins;1
+172097 Talismã;4
+172110 Tocantínia;12
+172120 Tocantinópolis;29
+172125 Tupirama;3
+172130 Tupiratins;4
+172208 Wanderlândia;7
+172210 Xambioá;12
+210005 Açailândia;100
+210010 Afonso Cunha;10
+210015 Água Doce do Maranhão;8
+210020 Alcântara;19
+210030 Aldeias Altas;16
+210040 Altamira do Maranhão;11
+210043 Alto Alegre do Maranhão;16
+210047 Alto Alegre do Pindaré;21
+210050 Alto Parnaíba;17
+210055 Amapá do Maranhão;5
+210060 Amarante do Maranhão;45
+210070 Anajatuba;25
+210080 Anapurus;10
+210083 Apicum-Açu;9
+210087 Araguanã;11
+210090 Araioses;23
+210095 Arame;17
+210100 Arari;17
+210110 Axixá;16
+210120 Bacabal;75
+210125 Bacabeira;17
+210130 Bacuri;12
+210135 Bacurituba;8
+210140 Balsas;125
+210150 Barão de Grajaú;19
+210160 Barra do Corda;73
+210170 Barreirinhas;28
+210177 Bela Vista do Maranhão;12
+210173 Belágua;7
+210180 Benedito Leite;5
+210190 Bequimão;15
+210193 Bernardo do Mearim;11
+210197 Boa Vista do Gurupi;5
+210200 Bom Jardim;26
+210203 Bom Jesus das Selvas;25
+210207 Bom Lugar;11
+210210 Brejo;16
+210215 Brejo de Areia;7
+210220 Buriti;24
+210230 Buriti Bravo;12
+210232 Buriticupu;43
+210235 Buritirana;11
+210237 Cachoeira Grande;7
+210240 Cajapió;8
+210250 Cajari;13
+210255 Campestre do Maranhão;11
+210260 Cândido Mendes;11
+210270 Cantanhede;14
+210275 Capinzal do Norte;12
+210280 Carolina;16
+210290 Carutapera;17
+210300 Caxias;122
+210310 Cedral;10
+210312 Central do Maranhão;6
+210315 Centro do Guilherme;8
+210317 Centro Novo do Maranhão;12
+210320 Chapadinha;60
+210325 Cidelândia;18
+210330 Codó;65
+210340 Coelho Neto;31
+210350 Colinas;45
+210355 Conceição do Lago-Açu;7
+210360 Coroatá;39
+210370 Cururupu;33
+210375 Davinópolis;11
+210380 Dom Pedro;20
+210390 Duque Bacelar;12
+210400 Esperantinópolis;18
+210405 Estreito;26
+210407 Feira Nova do Maranhão;6
+210408 Fernando Falcão;9
+210409 Formosa da Serra Negra;16
+210410 Fortaleza dos Nogueiras;11
+210420 Fortuna;11
+210430 Godofredo Viana;7
+210440 Gonçalves Dias;15
+210450 Governador Archer;13
+210455 Governador Edison Lobão;17
+210460 Governador Eugênio Barros;12
+210462 Governador Luiz Rocha;7
+210465 Governador Newton Bello;11
+210467 Governador Nunes Freire;21
+210470 Graça Aranha;10
+210480 Grajaú;42
+210490 Guimarães;15
+210500 Humberto de Campos;16
+210510 Icatu;18
+210515 Igarapé do Meio;11
+210520 Igarapé Grande;8
+210530 Imperatriz;450
+210535 Itaipava do Grajaú;12
+210540 Itapecuru Mirim;37
+210542 Itinga do Maranhão;14
+210545 Jatobá;10
+210547 Jenipapo dos Vieiras;21
+210550 João Lisboa;19
+210560 Joselândia;17
+210565 Junco do Maranhão;5
+210570 Lago da Pedra;31
+210580 Lago do Junco;8
+210594 Lago dos Rodrigues;9
+210590 Lago Verde;12
+210592 Lagoa do Mato;14
+210596 Lagoa Grande do Maranhão;9
+210598 Lajeado Novo;6
+210600 Lima Campos;16
+210610 Loreto;7
+210620 Luís Domingues;7
+210630 Magalhães de Almeida;11
+210632 Maracaçumé;11
+210635 Marajá do Sena;7
+210637 Maranhãozinho;9
+210640 Mata Roma;25
+210650 Matinha;11
+210660 Matões;21
+210663 Matões do Norte;10
+210667 Milagres do Maranhão;8
+210670 Mirador;16
+210675 Miranda do Norte;17
+210680 Mirinzal;17
+210690 Monção;16
+210700 Montes Altos;8
+210710 Morros;17
+210720 Nina Rodrigues;12
+210725 Nova Colinas;8
+210730 Nova Iorque;6
+210735 Nova Olinda do Maranhão;9
+210740 Olho d'Água das Cunhãs;11
+210745 Olinda Nova do Maranhão;16
+210750 Paço do Lumiar;44
+210760 Palmeirândia;26
+210770 Paraibano;21
+210780 Parnarama;21
+210790 Passagem Franca;21
+210800 Pastos Bons;27
+210805 Paulino Neves;11
+210810 Paulo Ramos;9
+210820 Pedreiras;45
+210825 Pedro do Rosário;16
+210830 Penalva;21
+210840 Peri Mirim;12
+210845 Peritoró;11
+210850 Pindaré-Mirim;23
+210860 Pinheiro;55
+210870 Pio XII;16
+210880 Pirapemas;16
+210890 Poção de Pedras;17
+210900 Porto Franco;26
+210905 Porto Rico do Maranhão;6
+210910 Presidente Dutra;57
+210920 Presidente Juscelino;8
+210923 Presidente Médici;6
+210927 Presidente Sarney;13
+210930 Presidente Vargas;7
+210940 Primeira Cruz;13
+210945 Raposa;15
+210950 Riachão;10
+210955 Ribamar Fiquene;9
+210960 Rosário;27
+210970 Sambaíba;7
+210975 Santa Filomena do Maranhão;9
+210980 Santa Helena;18
+210990 Santa Inês;71
+211000 Santa Luzia;35
+211003 Santa Luzia do Paruá;15
+211010 Santa Quitéria do Maranhão;16
+211020 Santa Rita;34
+211023 Santana do Maranhão;9
+211027 Santo Amaro do Maranhão;12
+211030 Santo Antônio dos Lopes;13
+211040 São Benedito do Rio Preto;17
+211050 São Bento;27
+211060 São Bernardo;18
+211065 São Domingos do Azeitão;5
+211070 São Domingos do Maranhão;27
+211080 São Félix de Balsas;6
+211085 São Francisco do Brejão;9
+211090 São Francisco do Maranhão;13
+211100 São João Batista;14
+211102 São João do Carú;8
+211105 São João do Paraíso;11
+211107 São João do Soter;20
+211110 São João dos Patos;22
+211120 São José de Ribamar;67
+211125 São José dos Basílios;12
+211130 São Luís;1230
+211140 São Luís Gonzaga do Maranhão;18
+211150 São Mateus do Maranhão;17
+211153 São Pedro da Água Branca;10
+211157 São Pedro dos Crentes;12
+211160 São Raimundo das Mangabeiras;12
+211163 São Raimundo do Doca Bezerra;8
+211167 São Roberto;7
+211170 São Vicente Ferrer;17
+211172 Satubinha;10
+211174 Senador Alexandre Costa;9
+211176 Senador La Rocque;15
+211178 Serrano do Maranhão;10
+211180 Sítio Novo;14
+211190 Sucupira do Norte;8
+211195 Sucupira do Riachão;9
+211200 Tasso Fragoso;10
+211210 Timbiras;15
+211220 Timon;93
+211223 Trizidela do Vale;13
+211227 Tufilândia;14
+211230 Tuntum;35
+211240 Turiaçu;20
+211245 Turilândia;13
+211250 Tutóia;30
+211260 Urbano Santos;16
+211270 Vargem Grande;23
+211280 Viana;35
+211285 Vila Nova dos Martírios;10
+211290 Vitória do Mearim;18
+211300 Vitorino Freire;24
+211400 Zé Doca;25
+220005 Acauã;6
+220010 Agricolândia;10
+220020 Água Branca;20
+220025 Alagoinha do Piauí;9
+220027 Alegrete do Piauí;6
+220030 Alto Longá;9
+220040 Altos;26
+220045 Alvorada do Gurguéia;6
+220050 Amarante;24
+220060 Angical do Piauí;14
+220070 Anísio de Abreu;6
+220080 Antônio Almeida;4
+220090 Aroazes;8
+220095 Aroeiras do Itaim;7
+220100 Arraial;10
+220105 Assunção do Piauí;8
+220110 Avelino Lopes;12
+220115 Baixa Grande do Ribeiro;10
+220117 Barra D'Alcântara;3
+220120 Barras;46
+220130 Barreiras do Piauí;4
+220140 Barro Duro;7
+220150 Batalha;25
+220155 Bela Vista do Piauí;4
+220157 Belém do Piauí;5
+220160 Beneditinos;16
+220170 Bertolínia;11
+220173 Betânia do Piauí;7
+220177 Boa Hora;5
+220180 Bocaina;14
+220190 Bom Jesus;30
+220191 Bom Princípio do Piauí;8
+220192 Bonfim do Piauí;4
+220194 Boqueirão do Piauí;7
+220196 Brasileira;9
+220198 Brejo do Piauí;3
+220200 Buriti dos Lopes;20
+220202 Buriti dos Montes;8
+220205 Cabeceiras do Piauí;7
+220207 Cajazeiras do Piauí;8
+220208 Cajueiro da Praia;6
+220209 Caldeirão Grande do Piauí;5
+220210 Campinas do Piauí;9
+220211 Campo Alegre do Fidalgo;6
+220213 Campo Grande do Piauí;6
+220217 Campo Largo do Piauí;11
+220220 Campo Maior;66
+220225 Canavieira;5
+220230 Canto do Buriti;18
+220240 Capitão de Campos;12
+220245 Capitão Gervásio Oliveira;6
+220250 Caracol;7
+220253 Caraúbas do Piauí;7
+220255 Caridade do Piauí;8
+220260 Castelo do Piauí;17
+220265 Caxingó;6
+220270 Cocal;21
+220271 Cocal de Telha;7
+220272 Cocal dos Alves;4
+220273 Coivaras;4
+220275 Colônia do Gurguéia;5
+220277 Colônia do Piauí;6
+220280 Conceição do Canindé;6
+220285 Coronel José Dias;4
+220290 Corrente;40
+220300 Cristalândia do Piauí;11
+220310 Cristino Castro;12
+220320 Curimatá;11
+220323 Currais;7
+220327 Curral Novo do Piauí;5
+220325 Curralinhos;4
+220330 Demerval Lobão;13
+220335 Dirceu Arcoverde;7
+220340 Dom Expedito Lopes;9
+220345 Dom Inocêncio;8
+220342 Domingos Mourão;4
+220350 Elesbão Veloso;19
+220360 Eliseu Martins;8
+220370 Esperantina;35
+220375 Fartura do Piauí;4
+220380 Flores do Piauí;8
+220385 Floresta do Piauí;4
+220390 Floriano;127
+220400 Francinópolis;8
+220410 Francisco Ayres;9
+220415 Francisco Macedo;4
+220420 Francisco Santos;12
+220430 Fronteiras;13
+220435 Geminiano;9
+220440 Gilbués;14
+220450 Guadalupe;17
+220455 Guaribas;5
+220460 Hugo Napoleão;9
+220465 Ilha Grande;11
+220470 Inhuma;19
+220480 Ipiranga do Piauí;18
+220490 Isaías Coelho;8
+220500 Itainópolis;12
+220510 Itaueira;11
+220515 Jacobina do Piauí;8
+220520 Jaicós;15
+220525 Jardim do Mulato;10
+220527 Jatobá do Piauí;8
+220530 Jerumenha;8
+220535 João Costa;6
+220540 Joaquim Pires;9
+220545 Joca Marques;8
+220550 José de Freitas;34
+220551 Juazeiro do Piauí;6
+220552 Júlio Borges;9
+220553 Jurema;7
+220555 Lagoa Alegre;7
+220557 Lagoa de São Francisco;5
+220556 Lagoa do Barro do Piauí;11
+220558 Lagoa do Piauí;5
+220559 Lagoa do Sítio;13
+220554 Lagoinha do Piauí;7
+220560 Landri Sales;7
+220570 Luís Correia;25
+220580 Luzilândia;20
+220585 Madeiro;6
+220590 Manoel Emídio;11
+220595 Marcolândia;9
+220600 Marcos Parente;5
+220605 Massapê do Piauí;10
+220610 Matias Olímpio;7
+220620 Miguel Alves;27
+220630 Miguel Leão;4
+220635 Milton Brandão;8
+220640 Monsenhor Gil;16
+220650 Monsenhor Hipólito;11
+220660 Monte Alegre do Piauí;10
+220665 Morro Cabeça no Tempo;6
+220667 Morro do Chapéu do Piauí;7
+220669 Murici dos Portelas;6
+220670 Nazaré do Piauí;14
+220672 Nazária;8
+220675 Nossa Senhora de Nazaré;5
+220680 Nossa Senhora dos Remédios;8
+220795 Nova Santa Rita;4
+220690 Novo Oriente do Piauí;12
+220695 Novo Santo Antônio;9
+220700 Oeiras;62
+220710 Olho D'Água do Piauí;6
+220720 Padre Marcos;11
+220730 Paes Landim;4
+220735 Pajeú do Piauí;9
+220740 Palmeira do Piauí;10
+220750 Palmeirais;15
+220755 Paquetá;7
+220760 Parnaguá;13
+220770 Parnaíba;184
+220775 Passagem Franca do Piauí;4
+220777 Patos do Piauí;5
+220779 Pau D'Arco do Piauí;9
+220780 Paulistana;34
+220785 Pavussu;4
+220790 Pedro II;34
+220793 Pedro Laurentino;5
+220800 Picos;321
+220810 Pimenteiras;15
+220820 Pio IX;13
+220830 Piracuruca;25
+220840 Piripiri;84
+220850 Porto;8
+220855 Porto Alegre do Piauí;4
+220860 Prata do Piauí;5
+220865 Queimada Nova;9
+220870 Redenção do Gurguéia;9
+220880 Regeneração;16
+220885 Riacho Frio;7
+220887 Ribeira do Piauí;6
+220890 Ribeiro Gonçalves;9
+220900 Rio Grande do Piauí;11
+220910 Santa Cruz do Piauí;11
+220915 Santa Cruz dos Milagres;5
+220920 Santa Filomena;5
+220930 Santa Luz;7
+220937 Santa Rosa do Piauí;7
+220935 Santana do Piauí;6
+220940 Santo Antônio de Lisboa;10
+220945 Santo Antônio dos Milagres;7
+220950 Santo Inácio do Piauí;7
+220955 São Braz do Piauí;4
+220960 São Félix do Piauí;6
+220965 São Francisco de Assis do Piauí;6
+220970 São Francisco do Piauí;10
+220975 São Gonçalo do Gurguéia;2
+220980 São Gonçalo do Piauí;6
+220985 São João da Canabrava;6
+220987 São João da Fronteira;5
+220990 São João da Serra;6
+220995 São João da Varjota;9
+220997 São João do Arraial;9
+221000 São João do Piauí;21
+221005 São José do Divino;7
+221010 São José do Peixe;6
+221020 São José do Piauí;6
+221030 São Julião;6
+221035 São Lourenço do Piauí;9
+221037 São Luis do Piauí;7
+221038 São Miguel da Baixa Grande;3
+221039 São Miguel do Fidalgo;5
+221040 São Miguel do Tapuio;32
+221050 São Pedro do Piauí;18
+221060 São Raimundo Nonato;38
+221062 Sebastião Barros;9
+221063 Sebastião Leal;8
+221065 Sigefredo Pacheco;7
+221070 Simões;17
+221080 Simplício Mendes;24
+221090 Socorro do Piauí;8
+221093 Sussuapara;7
+221095 Tamboril do Piauí;5
+221097 Tanque do Piauí;8
+221100 Teresina;825
+221110 União;34
+221120 Uruçuí;28
+221130 Valença do Piauí;42
+221135 Várzea Branca;3
+221140 Várzea Grande;6
+221150 Vera Mendes;6
+221160 Vila Nova do Piauí;7
+221170 Wall Ferraz;9
+230010 Abaiara;11
+230015 Acarape;19
+230020 Acaraú;49
+230030 Acopiara;39
+230040 Aiuaba;11
+230050 Alcântaras;12
+230060 Altaneira;9
+230070 Alto Santo;37
+230075 Amontada;17
+230080 Antonina do Norte;8
+230090 Apuiarés;11
+230100 Aquiraz;57
+230110 Aracati;79
+230120 Aracoiaba;28
+230125 Ararendá;12
+230130 Araripe;19
+230140 Aratuba;14
+230150 Arneiroz;9
+230160 Assaré;23
+230170 Aurora;24
+230180 Baixio;7
+230185 Banabuiú;18
+230190 Barbalha;89
+230195 Barreira;17
+230200 Barro;22
+230205 Barroquinha;13
+230210 Baturité;48
+230220 Beberibe;27
+230230 Bela Cruz;29
+230240 Boa Viagem;36
+230250 Brejo Santo;94
+230260 Camocim;47
+230270 Campos Sales;31
+230280 Canindé;50
+230290 Capistrano;18
+230300 Caridade;12
+230310 Cariré;22
+230320 Caririaçu;24
+230330 Cariús;19
+230340 Carnaubal;36
+230350 Cascavel;39
+230360 Catarina;16
+230365 Catunda;10
+230370 Caucaia;172
+230380 Cedro;26
+230390 Chaval;12
+230393 Choró;16
+230395 Chorozinho;21
+230400 Coreaú;17
+230410 Crateús;79
+230420 Crato;201
+230423 Croatá;19
+230425 Cruz;24
+230426 Deputado Irapuan Pinheiro;17
+230427 Ererê;6
+230428 Eusébio;81
+230430 Farias Brito;34
+230435 Forquilha;21
+230440 Fortaleza;6096
+230445 Fortim;13
+230450 Frecheirinha;12
+230460 General Sampaio;13
+230465 Graça;14
+230470 Granja;32
+230480 Granjeiro;8
+230490 Groaíras;13
+230495 Guaiúba;18
+230500 Guaraciaba do Norte;37
+230510 Guaramiranga;7
+230520 Hidrolândia;14
+230523 Horizonte;44
+230526 Ibaretama;15
+230530 Ibiapina;28
+230533 Ibicuitinga;11
+230535 Icapuí;14
+230540 Icó;64
+230550 Iguatu;132
+230560 Independência;34
+230565 Ipaporanga;14
+230570 Ipaumirim;7
+230580 Ipu;39
+230590 Ipueiras;21
+230600 Iracema;16
+230610 Irauçuba;21
+230620 Itaiçaba;8
+230625 Itaitinga;28
+230630 Itapagé;44
+230640 Itapipoca;125
+230650 Itapiúna;12
+230655 Itarema;28
+230660 Itatira;18
+230670 Jaguaretama;16
+230680 Jaguaribara;11
+230690 Jaguaribe;44
+230700 Jaguaruana;48
+230710 Jardim;19
+230720 Jati;14
+230725 Jijoca de Jericoacoara;21
+230730 Juazeiro do Norte;481
+230740 Jucás;18
+230750 Lavras da Mangabeira;24
+230760 Limoeiro do Norte;123
+230763 Madalena;13
+230765 Maracanaú;165
+230770 Maranguape;72
+230780 Marco;20
+230790 Martinópole;8
+230800 Massapê;18
+230810 Mauriti;48
+230820 Meruoca;16
+230830 Milagres;36
+230835 Milhã;17
+230837 Miraíma;12
+230840 Missão Velha;30
+230850 Mombaça;25
+230860 Monsenhor Tabosa;20
+230870 Morada Nova;58
+230880 Moraújo;10
+230890 Morrinhos;16
+230900 Mucambo;13
+230910 Mulungu;10
+230920 Nova Olinda;16
+230930 Nova Russas;26
+230940 Novo Oriente;25
+230945 Ocara;24
+230950 Orós;28
+230960 Pacajus;56
+230970 Pacatuba;25
+230980 Pacoti;22
+230990 Pacujá;10
+231000 Palhano;7
+231010 Palmácia;8
+231020 Paracuru;25
+231025 Paraipaba;27
+231030 Parambu;32
+231040 Paramoti;9
+231050 Pedra Branca;41
+231060 Penaforte;15
+231070 Pentecoste;26
+231080 Pereiro;14
+231085 Pindoretama;19
+231090 Piquet Carneiro;14
+231095 Pires Ferreira;8
+231100 Poranga;11
+231110 Porteiras;15
+231120 Potengi;13
+231123 Potiretama;7
+231126 Quiterianópolis;41
+231130 Quixadá;132
+231135 Quixelô;19
+231140 Quixeramobim;67
+231150 Quixeré;18
+231160 Redenção;35
+231170 Reriutaba;15
+231180 Russas;81
+231190 Saboeiro;14
+231195 Salitre;21
+231220 Santa Quitéria;27
+231200 Santana do Acaraú;17
+231210 Santana do Cariri;12
+231230 São Benedito;50
+231240 São Gonçalo do Amarante;43
+231250 São João do Jaguaribe;5
+231260 São Luís do Curu;13
+231270 Senador Pompeu;30
+231280 Senador Sá;6
+231290 Sobral;296
+231300 Solonópole;23
+231310 Tabuleiro do Norte;28
+231320 Tamboril;20
+231325 Tarrafas;6
+231330 Tauá;67
+231335 Tejuçuoca;17
+231340 Tianguá;72
+231350 Trairi;28
+231355 Tururu;10
+231360 Ubajara;28
+231370 Umari;6
+231375 Umirim;14
+231380 Uruburetama;18
+231390 Uruoca;13
+231395 Varjota;11
+231400 Várzea Alegre;32
+231410 Viçosa do Ceará;35
+240010 Acari;13
+240020 Açu;67
+240030 Afonso Bezerra;8
+240040 Água Nova;5
+240050 Alexandria;22
+240060 Almino Afonso;9
+240070 Alto do Rodrigues;19
+240080 Angicos;14
+240090 Antônio Martins;10
+240100 Apodi;34
+240110 Areia Branca;28
+240120 Arês;11
+240130 Augusto Severo;10
+240140 Baía Formosa;9
+240145 Baraúna;23
+240150 Barcelona;9
+240160 Bento Fernandes;3
+240165 Bodó;3
+240170 Bom Jesus;7
+240180 Brejinho;16
+240185 Caiçara do Norte;4
+240190 Caiçara do Rio do Vento;6
+240200 Caicó;163
+240210 Campo Redondo;12
+240220 Canguaretama;27
+240230 Caraúbas;22
+240240 Carnaúba dos Dantas;12
+240250 Carnaubais;7
+240260 Ceará-Mirim;52
+240270 Cerro Corá;11
+240280 Coronel Ezequiel;8
+240290 Coronel João Pessoa;7
+240300 Cruzeta;6
+240310 Currais Novos;78
+240320 Doutor Severiano;9
+240330 Encanto;10
+240340 Equador;9
+240350 Espírito Santo;10
+240360 Extremoz;29
+240370 Felipe Guerra;5
+240375 Fernando Pedroza;2
+240380 Florânia;12
+240390 Francisco Dantas;7
+240400 Frutuoso Gomes;13
+240410 Galinhos;5
+240420 Goianinha;35
+240430 Governador Dix-Sept Rosado;11
+240440 Grossos;7
+240450 Guamaré;24
+240460 Ielmo Marinho;10
+240470 Ipanguaçu;14
+240480 Ipueira;5
+240485 Itajá;6
+240490 Itaú;6
+240500 Jaçanã;6
+240510 Jandaíra;7
+240520 Janduís;8
+240530 Januário Cicco;10
+240540 Japi;6
+240550 Jardim de Angicos;5
+240560 Jardim de Piranhas;14
+240570 Jardim do Seridó;17
+240580 João Câmara;37
+240590 João Dias;4
+240600 José da Penha;9
+240610 Jucurutu;22
+240615 Jundiá;9
+240620 Lagoa d'Anta;7
+240630 Lagoa de Pedras;6
+240640 Lagoa de Velhos;7
+240650 Lagoa Nova;7
+240660 Lagoa Salgada;6
+240670 Lajes;12
+240680 Lajes Pintadas;7
+240690 Lucrécia;11
+240700 Luís Gomes;11
+240710 Macaíba;61
+240720 Macau;36
+240725 Major Sales;7
+240730 Marcelino Vieira;6
+240740 Martins;12
+240750 Maxaranguape;8
+240760 Messias Targino;6
+240770 Montanhas;8
+240780 Monte Alegre;25
+240790 Monte das Gameleiras;3
+240800 Mossoró;423
+240810 Natal;1555
+240820 Nísia Floresta;25
+240830 Nova Cruz;39
+240840 Olho-d'Água do Borges;7
+240850 Ouro Branco;4
+240860 Paraná;6
+240870 Paraú;2
+240880 Parazinho;7
+240890 Parelhas;40
+240325 Parnamirim;142
+240910 Passa e Fica;13
+240920 Passagem;8
+240930 Patu;14
+240940 Pau dos Ferros;106
+240950 Pedra Grande;7
+240960 Pedra Preta;5
+240970 Pedro Avelino;7
+240980 Pedro Velho;9
+240990 Pendências;14
+241000 Pilões;7
+241010 Poço Branco;11
+241020 Portalegre;17
+241025 Porto do Mangue;5
+241040 Pureza;8
+241050 Rafael Fernandes;7
+241060 Rafael Godeiro;5
+241070 Riacho da Cruz;5
+241080 Riacho de Santana;8
+241090 Riachuelo;6
+240895 Rio do Fogo;13
+241100 Rodolfo Fernandes;6
+241110 Ruy Barbosa;9
+241120 Santa Cruz;41
+240933 Santa Maria;6
+241140 Santana do Matos;13
+241142 Santana do Seridó;6
+241150 Santo Antônio;28
+241160 São Bento do Norte;4
+241170 São Bento do Trairí;5
+241180 São Fernando;8
+241190 São Francisco do Oeste;4
+241200 São Gonçalo do Amarante;69
+241210 São João do Sabugi;7
+241220 São José de Mipibu;39
+241230 São José do Campestre;10
+241240 São José do Seridó;5
+241250 São Miguel;25
+241255 São Miguel do Gostoso;6
+241260 São Paulo do Potengi;26
+241270 São Pedro;9
+241280 São Rafael;7
+241290 São Tomé;13
+241300 São Vicente;11
+241310 Senador Elói de Souza;10
+241320 Senador Georgino Avelino;6
+241030 Serra Caiada;10
+241330 Serra de São Bento;7
+241335 Serra do Mel;12
+241340 Serra Negra do Norte;19
+241350 Serrinha;6
+241355 Serrinha dos Pintos;8
+241360 Severiano Melo;12
+241370 Sítio Novo;6
+241380 Taboleiro Grande;7
+241390 Taipu;9
+241400 Tangará;10
+241410 Tenente Ananias;12
+241415 Tenente Laurentino Cruz;11
+241105 Tibau;10
+241420 Tibau do Sul;9
+241430 Timbaúba dos Batistas;3
+241440 Touros;29
+241445 Triunfo Potiguar;5
+241450 Umarizal;16
+241460 Upanema;16
+241470 Várzea;4
+241475 Venha-Ver;6
+241480 Vera Cruz;13
+241490 Viçosa;6
+241500 Vila Flor;5
+250010 Água Branca;17
+250020 Aguiar;12
+250030 Alagoa Grande;27
+250040 Alagoa Nova;20
+250050 Alagoinha;19
+250053 Alcantil;11
+250057 Algodão de Jandaíra;7
+250060 Alhandra;23
+250073 Amparo;9
+250077 Aparecida;10
+250080 Araçagi;20
+250090 Arara;13
+250100 Araruna;27
+250110 Areia;27
+250115 Areia de Baraúnas;5
+250120 Areial;8
+250130 Aroeiras;21
+250135 Assunção;6
+250140 Baía da Traição;21
+250150 Bananeiras;28
+250153 Baraúna;11
+250160 Barra de Santa Rosa;18
+250157 Barra de Santana;21
+250170 Barra de São Miguel;9
+250180 Bayeux;57
+250190 Belém;33
+250200 Belém do Brejo do Cruz;15
+250205 Bernardino Batista;7
+250210 Boa Ventura;11
+250215 Boa Vista;10
+250220 Bom Jesus;8
+250230 Bom Sucesso;12
+250240 Bonito de Santa Fé;18
+250250 Boqueirão;19
+250270 Borborema;10
+250280 Brejo do Cruz;21
+250290 Brejo dos Santos;10
+250300 Caaporã;24
+250310 Cabaceiras;11
+250320 Cabedelo;61
+250330 Cachoeira dos Índios;20
+250340 Cacimba de Areia;11
+250350 Cacimba de Dentro;15
+250355 Cacimbas;10
+250360 Caiçara;15
+250370 Cajazeiras;122
+250375 Cajazeirinhas;9
+250380 Caldas Brandão;8
+250390 Camalaú;8
+250400 Campina Grande;745
+250403 Capim;8
+250407 Caraúbas;5
+250410 Carrapateira;3
+250415 Casserengue;8
+250420 Catingueira;12
+250430 Catolé do Rocha;45
+250435 Caturité;9
+250440 Conceição;30
+250450 Condado;17
+250460 Conde;23
+250470 Congo;12
+250480 Coremas;34
+250485 Coxixola;4
+250490 Cruz do Espírito Santo;12
+250500 Cubati;11
+250510 Cuité;30
+250523 Cuité de Mamanguape;9
+250520 Cuitegi;13
+250527 Curral de Cima;8
+250530 Curral Velho;3
+250535 Damião;10
+250540 Desterro;14
+250560 Diamante;12
+250570 Dona Inês;14
+250580 Duas Estradas;6
+250590 Emas;7
+250600 Esperança;63
+250610 Fagundes;19
+250620 Frei Martinho;13
+250625 Gado Bravo;11
+250630 Guarabira;104
+250640 Gurinhém;14
+250650 Gurjão;14
+250660 Ibiara;15
+250260 Igaracy;13
+250670 Imaculada;13
+250680 Ingá;20
+250690 Itabaiana;35
+250700 Itaporanga;46
+250710 Itapororoca;18
+250720 Itatuba;12
+250730 Jacaraú;17
+250740 Jericó;15
+250750 João Pessoa;1621
+251365 Joca Claudino;6
+250760 Juarez Távora;11
+250770 Juazeirinho;26
+250780 Junco do Seridó;11
+250790 Juripiranga;21
+250800 Juru;16
+250810 Lagoa;12
+250820 Lagoa de Dentro;13
+250830 Lagoa Seca;30
+250840 Lastro;9
+250850 Livramento;13
+250855 Logradouro;12
+250860 Lucena;17
+250870 Mãe d'Água;10
+250880 Malta;9
+250890 Mamanguape;49
+250900 Manaíra;13
+250905 Marcação;12
+250910 Mari;30
+250915 Marizópolis;13
+250920 Massaranduba;16
+250930 Mataraca;12
+250933 Matinhas;8
+250937 Mato Grosso;7
+250939 Maturéia;11
+250940 Mogeiro;16
+250950 Montadas;13
+250960 Monte Horebe;6
+250970 Monteiro;76
+250980 Mulungu;18
+250990 Natuba;10
+251000 Nazarezinho;7
+251010 Nova Floresta;15
+251020 Nova Olinda;9
+251030 Nova Palmeira;10
+251040 Olho d'Água;11
+251050 Olivedos;8
+251060 Ouro Velho;7
+251065 Parari;8
+251070 Passagem;8
+251080 Patos;194
+251090 Paulista;20
+251100 Pedra Branca;7
+251110 Pedra Lavrada;11
+251120 Pedras de Fogo;32
+251272 Pedro Régis;8
+251130 Piancó;45
+251140 Picuí;34
+251150 Pilar;16
+251160 Pilões;11
+251170 Pilõezinhos;6
+251180 Pirpirituba;7
+251190 Pitimbu;17
+251200 Pocinhos;26
+251203 Poço Dantas;7
+251207 Poço de José de Moura;8
+251210 Pombal;64
+251220 Prata;11
+251230 Princesa Isabel;53
+251240 Puxinanã;11
+251250 Queimadas;42
+251260 Quixabá;5
+251270 Remígio;27
+251274 Riachão;10
+251275 Riachão do Bacamarte;7
+251276 Riachão do Poço;7
+251278 Riacho de Santo Antônio;7
+251280 Riacho dos Cavalos;12
+251290 Rio Tinto;24
+251300 Salgadinho;6
+251310 Salgado de São Félix;21
+251315 Santa Cecília;6
+251320 Santa Cruz;14
+251330 Santa Helena;11
+251335 Santa Inês;8
+251340 Santa Luzia;19
+251370 Santa Rita;96
+251380 Santa Teresinha;8
+251350 Santana de Mangueira;13
+251360 Santana dos Garrotes;18
+251385 Santo André;10
+251392 São Bentinho;16
+251390 São Bento;46
+251396 São Domingos;8
+251394 São Domingos do Cariri;3
+251398 São Francisco;7
+251400 São João do Cariri;6
+250070 São João do Rio do Peixe;27
+251410 São João do Tigre;7
+251420 São José da Lagoa Tapada;11
+251430 São José de Caiana;6
+251440 São José de Espinharas;9
+251450 São José de Piranhas;21
+251455 São José de Princesa;6
+251460 São José do Bonfim;6
+251465 São José do Brejo do Cruz;4
+251470 São José do Sabugi;8
+251480 São José dos Cordeiros;5
+251445 São José dos Ramos;8
+251490 São Mamede;12
+251500 São Miguel de Taipu;11
+251510 São Sebastião de Lagoa de Roça;20
+251520 São Sebastião do Umbuzeiro;7
+251540 São Vicente do Seridó;12
+251530 Sapé;43
+251550 Serra Branca;20
+251560 Serra da Raiz;8
+251570 Serra Grande;9
+251580 Serra Redonda;13
+251590 Serraria;13
+251593 Sertãozinho;7
+251597 Sobrado;5
+251600 Solânea;43
+251610 Soledade;18
+251615 Sossêgo;7
+251620 Sousa;126
+251630 Sumé;36
+251640 Tacima;16
+251650 Taperoá;21
+251660 Tavares;15
+251670 Teixeira;18
+251675 Tenório;5
+251680 Triunfo;10
+251690 Uiraúna;33
+251700 Umbuzeiro;19
+251710 Várzea;3
+251720 Vieirópolis;10
+250550 Vista Serrana;10
+251740 Zabelê;2
+260005 Abreu e Lima;97
+260010 Afogados da Ingazeira;56
+260020 Afrânio;26
+260030 Agrestina;37
+260040 Água Preta;24
+260050 Águas Belas;29
+260060 Alagoinha;13
+260070 Aliança;25
+260080 Altinho;16
+260090 Amaraji;16
+260100 Angelim;20
+260105 Araçoiaba;17
+260110 Araripina;68
+260120 Arcoverde;122
+260130 Barra de Guabiraba;14
+260140 Barreiros;28
+260150 Belém de Maria;13
+260160 Belém do São Francisco;15
+260170 Belo Jardim;67
+260180 Betânia;12
+260190 Bezerros;69
+260200 Bodocó;23
+260210 Bom Conselho;48
+260220 Bom Jardim;30
+260230 Bonito;30
+260240 Brejão;16
+260250 Brejinho;11
+260260 Brejo da Madre de Deus;32
+260270 Buenos Aires;13
+260280 Buíque;28
+260290 Cabo de Santo Agostinho;197
+260300 Cabrobó;36
+260310 Cachoeirinha;19
+260320 Caetés;19
+260330 Calçado;13
+260340 Calumbi;8
+260345 Camaragibe;111
+260350 Camocim de São Félix;17
+260360 Camutanga;12
+260370 Canhotinho;25
+260380 Capoeiras;18
+260390 Carnaíba;20
+260392 Carnaubeira da Penha;15
+260400 Carpina;104
+260410 Caruaru;595
+260415 Casinhas;16
+260420 Catende;17
+260430 Cedro;10
+260440 Chã de Alegria;14
+260450 Chã Grande;19
+260460 Condado;17
+260470 Correntes;15
+260480 Cortês;14
+260490 Cumaru;23
+260500 Cupira;24
+260510 Custódia;35
+260515 Dormentes;26
+260520 Escada;38
+260530 Exu;27
+260540 Feira Nova;21
+260545 Fernando de Noronha;7
+260550 Ferreiros;12
+260560 Flores;13
+260570 Floresta;26
+260580 Frei Miguelinho;12
+260590 Gameleira;15
+260600 Garanhuns;363
+260610 Glória do Goitá;18
+260620 Goiana;72
+260630 Granito;12
+260640 Gravatá;83
+260650 Iati;12
+260660 Ibimirim;26
+260670 Ibirajuba;11
+260680 Igarassu;81
+260690 Iguaracy;8
+260760 Ilha de Itamaracá;23
+260700 Inajá;19
+260710 Ingazeira;7
+260720 Ipojuca;103
+260730 Ipubi;22
+260740 Itacuruba;5
+260750 Itaíba;15
+260765 Itambé;29
+260770 Itapetim;16
+260775 Itapissuma;24
+260780 Itaquitinga;14
+260790 Jaboatão dos Guararapes;471
+260795 Jaqueira;12
+260800 Jataúba;20
+260805 Jatobá;16
+260810 João Alfredo;23
+260820 Joaquim Nabuco;12
+260825 Jucati;13
+260830 Jupi;17
+260840 Jurema;14
+260850 Lagoa de Itaenga;18
+260845 Lagoa do Carro;23
+260860 Lagoa do Ouro;18
+260870 Lagoa dos Gatos;12
+260875 Lagoa Grande;20
+260880 Lajedo;33
+260890 Limoeiro;106
+260900 Macaparana;20
+260910 Machados;10
+260915 Manari;14
+260920 Maraial;7
+260930 Mirandiba;9
+261430 Moreilândia;9
+260940 Moreno;41
+260950 Nazaré da Mata;29
+260960 Olinda;246
+260970 Orobó;26
+260980 Orocó;12
+260990 Ouricuri;65
+261000 Palmares;72
+261010 Palmeirina;9
+261020 Panelas;23
+261030 Paranatama;16
+261040 Parnamirim;14
+261050 Passira;35
+261060 Paudalho;42
+261070 Paulista;182
+261080 Pedra;23
+261090 Pesqueira;61
+261100 Petrolândia;32
+261110 Petrolina;504
+261120 Poção;16
+261130 Pombos;21
+261140 Primavera;9
+261150 Quipapá;20
+261153 Quixaba;9
+261160 Recife;1768
+261170 Riacho das Almas;24
+261180 Ribeirão;22
+261190 Rio Formoso;15
+261200 Sairé;16
+261210 Salgadinho;10
+261220 Salgueiro;83
+261230 Saloá;19
+261240 Sanharó;17
+261245 Santa Cruz;14
+261247 Santa Cruz da Baixa Verde;12
+261250 Santa Cruz do Capibaribe;83
+261255 Santa Filomena;8
+261260 Santa Maria da Boa Vista;31
+261270 Santa Maria do Cambucá;12
+261280 Santa Terezinha;15
+261290 São Benedito do Sul;8
+261300 São Bento do Una;30
+261310 São Caitano;23
+261320 São João;27
+261330 São Joaquim do Monte;29
+261340 São José da Coroa Grande;15
+261350 São José do Belmonte;19
+261360 São José do Egito;45
+261370 São Lourenço da Mata;49
+261380 São Vicente Ferrer;17
+261390 Serra Talhada;162
+261400 Serrita;17
+261410 Sertânia;37
+261420 Sirinhaém;15
+261440 Solidão;10
+261450 Surubim;52
+261460 Tabira;22
+261470 Tacaimbó;17
+261480 Tacaratu;15
+261485 Tamandaré;16
+261500 Taquaritinga do Norte;19
+261510 Terezinha;13
+261520 Terra Nova;9
+261530 Timbaúba;60
+261540 Toritama;21
+261550 Tracunhaém;9
+261560 Trindade;30
+261570 Triunfo;19
+261580 Tupanatinga;16
+261590 Tuparetama;8
+261600 Venturosa;17
+261610 Verdejante;9
+261618 Vertente do Lério;11
+261620 Vertentes;19
+261630 Vicência;25
+261640 Vitória de Santo Antão;173
+261650 Xexéu;16
+270010 Água Branca;21
+270020 Anadia;12
+270030 Arapiraca;311
+270040 Atalaia;25
+270050 Barra de Santo Antônio;11
+270060 Barra de São Miguel;8
+270070 Batalha;17
+270080 Belém;4
+270090 Belo Monte;9
+270100 Boca da Mata;21
+270110 Branquinha;11
+270120 Cacimbinhas;12
+270130 Cajueiro;15
+270135 Campestre;5
+270140 Campo Alegre;28
+270150 Campo Grande;9
+270160 Canapi;11
+270170 Capela;15
+270180 Carneiros;5
+270190 Chã Preta;7
+270200 Coité do Nóia;14
+270210 Colônia Leopoldina;17
+270220 Coqueiro Seco;6
+270230 Coruripe;36
+270235 Craíbas;18
+270240 Delmiro Gouveia;58
+270250 Dois Riachos;8
+270255 Estrela de Alagoas;14
+270260 Feira Grande;16
+270270 Feliz Deserto;3
+270280 Flexeiras;8
+270290 Girau do Ponciano;22
+270300 Ibateguara;10
+270310 Igaci;19
+270320 Igreja Nova;22
+270330 Inhapi;13
+270340 Jacaré dos Homens;8
+270350 Jacuípe;3
+270360 Japaratinga;6
+270370 Jaramataia;5
+270375 Jequiá da Praia;11
+270380 Joaquim Gomes;16
+270390 Jundiá;4
+270400 Junqueiro;34
+270410 Lagoa da Canoa;21
+270420 Limoeiro de Anadia;30
+270430 Maceió;1543
+270440 Major Isidoro;13
+270490 Mar Vermelho;4
+270450 Maragogi;23
+270460 Maravilha;11
+270470 Marechal Deodoro;39
+270480 Maribondo;15
+270500 Mata Grande;11
+270510 Matriz de Camaragibe;17
+270520 Messias;11
+270530 Minador do Negrão;6
+270540 Monteirópolis;7
+270550 Murici;16
+270560 Novo Lino;8
+270570 Olho d'Água das Flores;14
+270580 Olho d'Água do Casado;5
+270590 Olho d'Água Grande;10
+270600 Olivença;8
+270610 Ouro Branco;9
+270620 Palestina;5
+270630 Palmeira dos Índios;88
+270640 Pão de Açúcar;24
+270642 Pariconha;15
+270644 Paripueira;10
+270650 Passo de Camaragibe;13
+270660 Paulo Jacinto;7
+270670 Penedo;94
+270680 Piaçabuçu;18
+270690 Pilar;23
+270700 Pindoba;4
+270710 Piranhas;27
+270720 Poço das Trincheiras;14
+270730 Porto Calvo;23
+270740 Porto de Pedras;8
+270750 Porto Real do Colégio;17
+270760 Quebrangulo;12
+270770 Rio Largo;45
+270780 Roteiro;6
+270790 Santa Luzia do Norte;5
+270800 Santana do Ipanema;53
+270810 Santana do Mundaú;9
+270820 São Brás;9
+270830 São José da Laje;16
+270840 São José da Tapera;19
+270850 São Luís do Quitunde;22
+270860 São Miguel dos Campos;45
+270870 São Miguel dos Milagres;6
+270880 São Sebastião;37
+270890 Satuba;14
+270895 Senador Rui Palmeira;8
+270900 Tanque d'Arca;5
+270910 Taquarana;22
+270915 Teotônio Vilela;42
+270920 Traipu;16
+270930 União dos Palmares;48
+270940 Viçosa;22
+280010 Amparo de São Francisco;6
+280020 Aquidabã;19
+280030 Aracaju;2492
+280040 Arauá;13
+280050 Areia Branca;14
+280060 Barra dos Coqueiros;19
+280067 Boquim;26
+280070 Brejo Grande;5
+280100 Campo do Brito;19
+280110 Canhoba;9
+280120 Canindé de São Francisco;24
+280130 Capela;29
+280140 Carira;16
+280150 Carmópolis;14
+280160 Cedro de São João;6
+280170 Cristinápolis;18
+280190 Cumbe;7
+280200 Divina Pastora;6
+280210 Estância;63
+280220 Feira Nova;7
+280230 Frei Paulo;5
+280240 Gararu;6
+280250 General Maynard;4
+280260 Gracho Cardoso;7
+280270 Ilha das Flores;5
+280280 Indiaroba;21
+280290 Itabaiana;113
+280300 Itabaianinha;26
+280310 Itabi;6
+280320 Itaporanga d'Ajuda;33
+280330 Japaratuba;21
+280340 Japoatã;12
+280350 Lagarto;89
+280360 Laranjeiras;21
+280370 Macambira;8
+280380 Malhada dos Bois;5
+280390 Malhador;10
+280400 Maruim;11
+280410 Moita Bonita;10
+280420 Monte Alegre de Sergipe;7
+280430 Muribeca;8
+280440 Neópolis;28
+280445 Nossa Senhora Aparecida;6
+280450 Nossa Senhora da Glória;29
+280460 Nossa Senhora das Dores;21
+280470 Nossa Senhora de Lourdes;5
+280480 Nossa Senhora do Socorro;83
+280490 Pacatuba;10
+280500 Pedra Mole;6
+280510 Pedrinhas;6
+280520 Pinhão;5
+280530 Pirambu;5
+280540 Poço Redondo;11
+280550 Poço Verde;14
+280560 Porto da Folha;20
+280570 Propriá;42
+280580 Riachão do Dantas;15
+280590 Riachuelo;9
+280600 Ribeirópolis;19
+280610 Rosário do Catete;10
+280620 Salgado;16
+280630 Santa Luzia do Itanhy;10
+280650 Santa Rosa de Lima;6
+280640 Santana do São Francisco;5
+280660 Santo Amaro das Brotas;5
+280670 São Cristóvão;39
+280680 São Domingos;11
+280690 São Francisco;5
+280700 São Miguel do Aleixo;9
+280710 Simão Dias;38
+280720 Siriri;12
+280730 Telha;7
+280740 Tobias Barreto;41
+280750 Tomar do Geru;8
+280760 Umbaúba;16
+290010 Abaíra;11
+290020 Abaré;18
+290030 Acajutiba;10
+290035 Adustina;12
+290040 Água Fria;11
+290060 Aiquara;5
+290070 Alagoinhas;259
+290080 Alcobaça;19
+290090 Almadina;7
+290100 Amargosa;42
+290110 Amélia Rodrigues;20
+290115 América Dourada;13
+290120 Anagé;17
+290130 Andaraí;13
+290135 Andorinha;22
+290140 Angical;10
+290150 Anguera;9
+290160 Antas;19
+290170 Antônio Cardoso;7
+290180 Antônio Gonçalves;9
+290190 Aporá;15
+290195 Apuarema;8
+290205 Araças;11
+290200 Aracatu;19
+290210 Araci;42
+290220 Aramari;13
+290225 Arataca;10
+290230 Aratuípe;11
+290240 Aurelino Leal;11
+290250 Baianópolis;10
+290260 Baixa Grande;24
+290265 Banzaê;8
+290270 Barra;32
+290280 Barra da Estiva;27
+290290 Barra do Choça;30
+290300 Barra do Mendes;23
+290310 Barra do Rocha;6
+290320 Barreiras;299
+290323 Barro Alto;15
+290330 Barro Preto;7
+290327 Barrocas;26
+290340 Belmonte;15
+290350 Belo Campo;14
+290360 Biritinga;18
+290370 Boa Nova;12
+290380 Boa Vista do Tupim;23
+290390 Bom Jesus da Lapa;101
+290395 Bom Jesus da Serra;9
+290400 Boninal;17
+290405 Bonito;9
+290410 Boquira;26
+290420 Botuporã;22
+290430 Brejões;12
+290440 Brejolândia;10
+290450 Brotas de Macaúbas;20
+290460 Brumado;135
+290470 Buerarema;13
+290475 Buritirama;12
+290480 Caatiba;8
+290485 Cabaceiras do Paraguaçu;18
+290490 Cachoeira;42
+290500 Caculé;38
+290510 Caém;10
+290515 Caetanos;12
+290520 Caetité;90
+290530 Cafarnaum;15
+290540 Cairu;13
+290550 Caldeirão Grande;11
+290560 Camacan;28
+290570 Camaçari;187
+290580 Camamu;22
+290590 Campo Alegre de Lourdes;17
+290600 Campo Formoso;69
+290610 Canápolis;13
+290620 Canarana;16
+290630 Canavieiras;38
+290640 Candeal;8
+290650 Candeias;87
+290660 Candiba;14
+290670 Cândido Sales;27
+290680 Cansanção;26
+290682 Canudos;11
+290685 Capela do Alto Alegre;16
+290687 Capim Grosso;39
+290689 Caraíbas;9
+290690 Caravelas;21
+290700 Cardeal da Silva;9
+290710 Carinhanha;23
+290720 Casa Nova;34
+290730 Castro Alves;27
+290740 Catolândia;5
+290750 Catu;72
+290755 Caturama;9
+290760 Central;11
+290770 Chorrochó;14
+290780 Cícero Dantas;33
+290790 Cipó;14
+290800 Coaraci;20
+290810 Cocos;15
+290820 Conceição da Feira;24
+290830 Conceição do Almeida;26
+290840 Conceição do Coité;80
+290850 Conceição do Jacuípe;35
+290860 Conde;20
+290870 Condeúba;25
+290880 Contendas do Sincorá;11
+290890 Coração de Maria;17
+290900 Cordeiros;8
+290910 Coribe;20
+290920 Coronel João Sá;10
+290930 Correntina;22
+290940 Cotegipe;10
+290950 Cravolândia;9
+290960 Crisópolis;14
+290970 Cristópolis;11
+290980 Cruz das Almas;99
+290990 Curaçá;21
+291000 Dário Meira;11
+291005 Dias d'Ávila;47
+291010 Dom Basílio;19
+291020 Dom Macedo Costa;5
+291030 Elísio Medrado;11
+291040 Encruzilhada;16
+291050 Entre Rios;32
+290050 Érico Cardoso;15
+291060 Esplanada;26
+291070 Euclides da Cunha;42
+291072 Eunápolis;191
+291075 Fátima;16
+291077 Feira da Mata;9
+291080 Feira de Santana;749
+291085 Filadélfia;26
+291090 Firmino Alves;7
+291100 Floresta Azul;6
+291110 Formosa do Rio Preto;12
+291120 Gandu;69
+291125 Gavião;4
+291130 Gentio do Ouro;11
+291140 Glória;23
+291150 Gongogi;10
+291160 Governador Mangabeira;25
+291165 Guajeru;20
+291170 Guanambi;182
+291180 Guaratinga;21
+291185 Heliópolis;9
+291190 Iaçu;22
+291200 Ibiassucê;20
+291210 Ibicaraí;29
+291220 Ibicoara;25
+291230 Ibicuí;17
+291240 Ibipeba;15
+291250 Ibipitanga;26
+291260 Ibiquera;9
+291270 Ibirapitanga;13
+291280 Ibirapuã;17
+291290 Ibirataia;20
+291300 Ibitiara;13
+291310 Ibititá;19
+291320 Ibotirama;63
+291330 Ichu;9
+291340 Igaporã;22
+291345 Igrapiúna;16
+291350 Iguaí;22
+291360 Ilhéus;263
+291370 Inhambupe;30
+291380 Ipecaetá;8
+291390 Ipiaú;84
+291400 Ipirá;45
+291410 Ipupiara;10
+291420 Irajuba;9
+291430 Iramaia;8
+291440 Iraquara;17
+291450 Irará;31
+291460 Irecê;136
+291465 Itabela;35
+291470 Itaberaba;77
+291480 Itabuna;434
+291490 Itacaré;26
+291500 Itaeté;11
+291510 Itagi;14
+291520 Itagibá;5
+291530 Itagimirim;8
+291535 Itaguaçu da Bahia;12
+291540 Itaju do Colônia;7
+291550 Itajuípe;18
+291560 Itamaraju;73
+291570 Itamari;7
+291580 Itambé;19
+291590 Itanagra;5
+291600 Itanhém;32
+291610 Itaparica;16
+291620 Itapé;12
+291630 Itapebi;11
+291640 Itapetinga;107
+291650 Itapicuru;25
+291660 Itapitanga;8
+291670 Itaquara;12
+291680 Itarantim;19
+291685 Itatim;20
+291690 Itiruçu;11
+291700 Itiúba;30
+291710 Itororó;23
+291720 Ituaçu;18
+291730 Ituberá;29
+291733 Iuiú;11
+291735 Jaborandi;10
+291740 Jacaraci;14
+291750 Jacobina;175
+291760 Jaguaquara;59
+291770 Jaguarari;35
+291780 Jaguaripe;18
+291790 Jandaíra;11
+291800 Jequié;214
+291810 Jeremoabo;47
+291820 Jiquiriçá;13
+291830 Jitaúna;13
+291835 João Dourado;24
+291840 Juazeiro;267
+291845 Jucuruçu;12
+291850 Jussara;16
+291855 Jussari;8
+291860 Jussiape;13
+291870 Lafaiete Coutinho;5
+291875 Lagoa Real;12
+291880 Laje;20
+291890 Lajedão;10
+291900 Lajedinho;8
+291905 Lajedo do Tabocal;8
+291910 Lamarão;8
+291915 Lapão;22
+291920 Lauro de Freitas;305
+291930 Lençóis;11
+291940 Licínio de Almeida;14
+291950 Livramento de Nossa Senhora;82
+291955 Luís Eduardo Magalhães;172
+291960 Macajuba;12
+291970 Macarani;23
+291980 Macaúbas;57
+291990 Macururé;11
+291992 Madre de Deus;23
+291995 Maetinga;15
+292000 Maiquinique;7
+292010 Mairi;37
+292020 Malhada;11
+292030 Malhada de Pedras;10
+292040 Manoel Vitorino;9
+292045 Mansidão;10
+292050 Maracás;39
+292060 Maragogipe;28
+292070 Maraú;18
+292080 Marcionílio Souza;11
+292090 Mascote;11
+292100 Mata de São João;32
+292105 Matina;19
+292110 Medeiros Neto;37
+292120 Miguel Calmon;27
+292130 Milagres;9
+292140 Mirangaba;17
+292145 Mirante;10
+292150 Monte Santo;35
+292160 Morpará;7
+292170 Morro do Chapéu;45
+292180 Mortugaba;21
+292190 Mucugê;22
+292200 Mucuri;55
+292205 Mulungu do Morro;9
+292210 Mundo Novo;20
+292220 Muniz Ferreira;8
+292225 Muquém de São Francisco;18
+292230 Muritiba;35
+292240 Mutuípe;30
+292250 Nazaré;33
+292260 Nilo Peçanha;14
+292265 Nordestina;12
+292270 Nova Canaã;14
+292273 Nova Fátima;11
+292275 Nova Ibiá;7
+292280 Nova Itarana;9
+292285 Nova Redenção;6
+292290 Nova Soure;22
+292300 Nova Viçosa;37
+292303 Novo Horizonte;17
+292305 Novo Triunfo;9
+292310 Olindina;20
+292320 Oliveira dos Brejinhos;20
+292330 Ouriçangas;9
+292335 Ourolândia;15
+292340 Palmas de Monte Alto;15
+292350 Palmeiras;11
+292360 Paramirim;58
+292370 Paratinga;15
+292380 Paripiranga;18
+292390 Pau Brasil;11
+292400 Paulo Afonso;325
+292405 Pé de Serra;19
+292410 Pedrão;8
+292420 Pedro Alexandre;8
+292430 Piatã;17
+292440 Pilão Arcado;15
+292450 Pindaí;16
+292460 Pindobaçu;18
+292465 Pintadas;11
+292467 Piraí do Norte;5
+292470 Piripá;10
+292480 Piritiba;19
+292490 Planaltino;16
+292500 Planalto;17
+292510 Poções;31
+292520 Pojuca;37
+292525 Ponto Novo;19
+292530 Porto Seguro;205
+292540 Potiraguá;9
+292550 Prado;29
+292560 Presidente Dutra;13
+292570 Presidente Jânio Quadros;14
+292575 Presidente Tancredo Neves;24
+292580 Queimadas;23
+292590 Quijingue;15
+292593 Quixabeira;14
+292595 Rafael Jambeiro;24
+292600 Remanso;25
+292610 Retirolândia;22
+292620 Riachão das Neves;19
+292630 Riachão do Jacuípe;40
+292640 Riacho de Santana;30
+292650 Ribeira do Amparo;12
+292660 Ribeira do Pombal;71
+292665 Ribeirão do Largo;9
+292670 Rio de Contas;24
+292680 Rio do Antônio;15
+292690 Rio do Pires;15
+292700 Rio Real;32
+292710 Rodelas;16
+292720 Ruy Barbosa;36
+292730 Salinas da Margarida;11
+292740 Salvador;3291
+292750 Santa Bárbara;19
+292760 Santa Brígida;15
+292770 Santa Cruz Cabrália;31
+292780 Santa Cruz da Vitória;4
+292790 Santa Inês;11
+292805 Santa Luzia;7
+292810 Santa Maria da Vitória;58
+292840 Santa Rita de Cássia;17
+292850 Santa Teresinha;13
+292800 Santaluz;43
+292820 Santana;16
+292830 Santanópolis;7
+292860 Santo Amaro;60
+292870 Santo Antônio de Jesus;170
+292880 Santo Estêvão;53
+292890 São Desidério;26
+292895 São Domingos;20
+292910 São Felipe;27
+292900 São Félix;23
+292905 São Félix do Coribe;18
+292920 São Francisco do Conde;36
+292925 São Gabriel;13
+292930 São Gonçalo dos Campos;29
+292935 São José da Vitória;5
+292937 São José do Jacuípe;10
+292940 São Miguel das Matas;6
+292950 São Sebastião do Passé;48
+292960 Sapeaçu;21
+292970 Sátiro Dias;18
+292975 Saubara;10
+292980 Saúde;10
+292990 Seabra;44
+293000 Sebastião Laranjeiras;11
+293010 Senhor do Bonfim;157
+293020 Sento Sé;11
+293015 Serra do Ramalho;26
+293030 Serra Dourada;25
+293040 Serra Preta;13
+293050 Serrinha;102
+293060 Serrolândia;13
+293070 Simões Filho;68
+293075 Sítio do Mato;10
+293076 Sítio do Quinto;8
+293077 Sobradinho;25
+293080 Souto Soares;14
+293090 Tabocas do Brejo Velho;12
+293100 Tanhaçu;18
+293105 Tanque Novo;18
+293110 Tanquinho;9
+293120 Taperoá;11
+293130 Tapiramutá;14
+293135 Teixeira de Freitas;306
+293140 Teodoro Sampaio;11
+293150 Teofilândia;20
+293160 Teolândia;15
+293170 Terra Nova;10
+293180 Tremedal;17
+293190 Tucano;34
+293200 Uauá;32
+293210 Ubaíra;19
+293220 Ubaitaba;18
+293230 Ubatã;18
+293240 Uibaí;13
+293245 Umburanas;11
+293250 Una;18
+293260 Urandi;17
+293270 Uruçuca;19
+293280 Utinga;22
+293290 Valença;104
+293300 Valente;38
+293305 Várzea da Roça;15
+293310 Várzea do Poço;7
+293315 Várzea Nova;13
+293317 Varzedo;12
+293320 Vera Cruz;34
+293325 Vereda;9
+293330 Vitória da Conquista;866
+293340 Wagner;13
+293345 Wanderley;15
+293350 Wenceslau Guimarães;12
+293360 Xique-Xique;34
+310010 Abadia dos Dourados;5
+310020 Abaeté;43
+310030 Abre Campo;13
+310040 Acaiaca;6
+310050 Açucena;10
+310060 Água Boa;12
+310070 Água Comprida;5
+310080 Aguanil;6
+310090 Águas Formosas;32
+310100 Águas Vermelhas;19
+310110 Aimorés;34
+310120 Aiuruoca;11
+310130 Alagoa;5
+310140 Albertina;3
+310150 Além Paraíba;100
+310160 Alfenas;220
+310163 Alfredo Vasconcelos;1
+310170 Almenara;63
+310180 Alpercata;7
+310190 Alpinópolis;39
+310200 Alterosa;24
+310205 Alto Caparaó;15
+315350 Alto Jequitibá;17
+310210 Alto Rio Doce;15
+310220 Alvarenga;6
+310230 Alvinópolis;27
+310240 Alvorada de Minas;9
+310250 Amparo do Serra;5
+310260 Andradas;77
+310280 Andrelândia;20
+310285 Angelândia;9
+310290 Antônio Carlos;11
+310300 Antônio Dias;11
+310310 Antônio Prado de Minas;7
+310320 Araçaí;3
+310330 Aracitaba;1
+310340 Araçuaí;73
+310350 Araguari;226
+310360 Arantina;7
+310370 Araponga;9
+310375 Araporã;9
+310380 Arapuá;5
+310390 Araújos;9
+310400 Araxá;404
+310410 Arceburgo;13
+310420 Arcos;97
+310430 Areado;21
+310440 Argirita;5
+310445 Aricanduva;8
+310450 Arinos;21
+310460 Astolfo Dutra;43
+310470 Ataléia;13
+310480 Augusto de Lima;4
+310490 Baependi;42
+310500 Baldim;6
+310510 Bambuí;54
+310520 Bandeira;8
+310530 Bandeira do Sul;13
+310540 Barão de Cocais;47
+310550 Barão de Monte Alto;6
+310560 Barbacena;592
+310570 Barra Longa;6
+310590 Barroso;51
+310600 Bela Vista de Minas;17
+310610 Belmiro Braga;7
+310620 Belo Horizonte;6593
+310630 Belo Oriente;29
+310640 Belo Vale;11
+310650 Berilo;15
+310665 Berizal;8
+310660 Bertópolis;7
+310670 Betim;334
+310680 Bias Fortes;5
+310690 Bicas;35
+310700 Biquinhas;5
+310710 Boa Esperança;153
+310720 Bocaina de Minas;7
+310730 Bocaiúva;56
+310740 Bom Despacho;193
+310750 Bom Jardim de Minas;18
+310760 Bom Jesus da Penha;6
+310770 Bom Jesus do Amparo;6
+310780 Bom Jesus do Galho;13
+310790 Bom Repouso;9
+310800 Bom Sucesso;31
+310810 Bonfim;13
+310820 Bonfinópolis de Minas;10
+310825 Bonito de Minas;12
+310830 Borda da Mata;37
+310840 Botelhos;17
+310850 Botumirim;6
+310870 Brás Pires;10
+310855 Brasilândia de Minas;23
+310860 Brasília de Minas;53
+310880 Braúnas;5
+310890 Brazópolis;26
+310900 Brumadinho;99
+310910 Bueno Brandão;25
+310920 Buenópolis;11
+310925 Bugre;8
+310930 Buritis;33
+310940 Buritizeiro;21
+310945 Cabeceira Grande;3
+310950 Cabo Verde;17
+310960 Cachoeira da Prata;3
+310970 Cachoeira de Minas;13
+310270 Cachoeira de Pajeú;12
+310980 Cachoeira Dourada;5
+310990 Caetanópolis;7
+311000 Caeté;60
+311010 Caiana;9
+311020 Cajuri;4
+311030 Caldas;17
+311040 Camacho;9
+311050 Camanducaia;35
+311060 Cambuí;91
+311070 Cambuquira;24
+311080 Campanário;5
+311090 Campanha;42
+311100 Campestre;41
+311110 Campina Verde;53
+311115 Campo Azul;5
+311120 Campo Belo;176
+311130 Campo do Meio;11
+311140 Campo Florido;11
+311150 Campos Altos;26
+311160 Campos Gerais;47
+311190 Cana Verde;5
+311170 Canaã;6
+311180 Canápolis;13
+311200 Candeias;38
+311205 Cantagalo;4
+311210 Caparaó;6
+311220 Capela Nova;8
+311230 Capelinha;85
+311240 Capetinga;12
+311250 Capim Branco;7
+311260 Capinópolis;20
+311265 Capitão Andrade;6
+311270 Capitão Enéas;23
+311280 Capitólio;12
+311290 Caputira;12
+311300 Caraí;18
+311310 Caranaíba;4
+311320 Carandaí;74
+311330 Carangola;74
+311340 Caratinga;268
+311350 Carbonita;24
+311360 Careaçu;11
+311370 Carlos Chagas;24
+311380 Carmésia;4
+311390 Carmo da Cachoeira;11
+311400 Carmo da Mata;13
+311410 Carmo de Minas;21
+311420 Carmo do Cajuru;22
+311430 Carmo do Paranaíba;107
+311440 Carmo do Rio Claro;31
+311450 Carmópolis de Minas;53
+311455 Carneirinho;17
+311460 Carrancas;5
+311470 Carvalhópolis;6
+311480 Carvalhos;5
+311490 Casa Grande;2
+311500 Cascalho Rico;2
+311510 Cássia;25
+311530 Cataguases;311
+311535 Catas Altas;11
+311540 Catas Altas da Noruega;3
+311545 Catuji;8
+311547 Catuti;9
+311550 Caxambu;78
+311560 Cedro do Abaeté;7
+311570 Central de Minas;10
+311580 Centralina;12
+311590 Chácara;4
+311600 Chalé;11
+311610 Chapada do Norte;14
+311615 Chapada Gaúcha;12
+311620 Chiador;5
+311630 Cipotânea;10
+311640 Claraval;5
+311650 Claro dos Poções;12
+311660 Cláudio;54
+311670 Coimbra;6
+311680 Coluna;8
+311690 Comendador Gomes;3
+311700 Comercinho;8
+311710 Conceição da Aparecida;13
+311520 Conceição da Barra de Minas;7
+311730 Conceição das Alagoas;34
+311720 Conceição das Pedras;6
+311740 Conceição de Ipanema;6
+311750 Conceição do Mato Dentro;36
+311760 Conceição do Pará;8
+311770 Conceição do Rio Verde;27
+311780 Conceição dos Ouros;17
+311783 Cônego Marinho;10
+311787 Confins;10
+311790 Congonhal;22
+311800 Congonhas;149
+311810 Congonhas do Norte;9
+311820 Conquista;13
+311830 Conselheiro Lafaiete;426
+311840 Conselheiro Pena;21
+311850 Consolação;1
+311860 Contagem;871
+311870 Coqueiral;17
+311880 Coração de Jesus;44
+311890 Cordisburgo;9
+311900 Cordislândia;6
+311910 Corinto;38
+311920 Coroaci;8
+311930 Coromandel;63
+311940 Coronel Fabriciano;130
+311950 Coronel Murta;9
+311960 Coronel Pacheco;5
+311970 Coronel Xavier Chaves;7
+311980 Córrego Danta;10
+311990 Córrego do Bom Jesus;4
+311995 Córrego Fundo;6
+312000 Córrego Novo;4
+312010 Couto de Magalhães de Minas;3
+312015 Crisólita;7
+312020 Cristais;19
+312030 Cristália;8
+312040 Cristiano Otoni;5
+312050 Cristina;27
+312060 Crucilândia;9
+312070 Cruzeiro da Fortaleza;7
+312080 Cruzília;30
+312083 Cuparaque;8
+312087 Curral de Dentro;9
+312090 Curvelo;166
+312100 Datas;8
+312110 Delfim Moreira;15
+312120 Delfinópolis;12
+312125 Delta;7
+312130 Descoberto;7
+312140 Desterro de Entre Rios;19
+312150 Desterro do Melo;8
+312160 Diamantina;165
+312170 Diogo de Vasconcelos;8
+312180 Dionísio;8
+312190 Divinésia;5
+312200 Divino;27
+312210 Divino das Laranjeiras;7
+312220 Divinolândia de Minas;9
+312230 Divinópolis;896
+312235 Divisa Alegre;10
+312240 Divisa Nova;9
+312245 Divisópolis;12
+312247 Dom Bosco;4
+312250 Dom Cavati;7
+312260 Dom Joaquim;7
+312270 Dom Silvério;14
+312280 Dom Viçoso;9
+312290 Dona Eusébia;5
+312300 Dores de Campos;17
+312310 Dores de Guanhães;7
+312320 Dores do Indaiá;27
+312330 Dores do Turvo;1
+312340 Doresópolis;5
+312350 Douradoquara;3
+312352 Durandé;8
+312360 Elói Mendes;59
+312370 Engenheiro Caldas;22
+312380 Engenheiro Navarro;8
+312385 Entre Folhas;4
+312390 Entre Rios de Minas;32
+312400 Ervália;22
+312410 Esmeraldas;56
+312420 Espera Feliz;26
+312430 Espinosa;29
+312440 Espírito Santo do Dourado;9
+312450 Estiva;10
+312460 Estrela Dalva;4
+312470 Estrela do Indaiá;10
+312480 Estrela do Sul;8
+312490 Eugenópolis;17
+312500 Ewbank da Câmara;4
+312510 Extrema;112
+312520 Fama;2
+312530 Faria Lemos;3
+312540 Felício dos Santos;5
+312560 Felisburgo;11
+312570 Felixlândia;20
+312580 Fernandes Tourinho;5
+312590 Ferros;10
+312595 Fervedouro;13
+312600 Florestal;25
+312610 Formiga;179
+312620 Formoso;6
+312630 Fortaleza de Minas;7
+312640 Fortuna de Minas;5
+312650 Francisco Badaró;17
+312660 Francisco Dumont;9
+312670 Francisco Sá;26
+312675 Franciscópolis;4
+312680 Frei Gaspar;5
+312690 Frei Inocêncio;8
+312695 Frei Lagonegro;3
+312700 Fronteira;20
+312705 Fronteira dos Vales;4
+312707 Fruta de Leite;7
+312710 Frutal;148
+312720 Funilândia;9
+312730 Galiléia;8
+312733 Gameleiras;8
+312735 Glaucilândia;9
+312737 Goiabeira;7
+312738 Goianá;7
+312740 Gonçalves;3
+312750 Gonzaga;7
+312760 Gouveia;17
+312770 Governador Valadares;775
+312780 Grão Mogol;19
+312790 Grupiara;5
+312800 Guanhães;61
+312810 Guapé;15
+312820 Guaraciaba;12
+312825 Guaraciama;4
+312830 Guaranésia;28
+312840 Guarani;17
+312850 Guarará;8
+312860 Guarda-Mor;12
+312870 Guaxupé;182
+312880 Guidoval;9
+312890 Guimarânia;13
+312900 Guiricema;11
+312910 Gurinhatã;10
+312920 Heliodora;8
+312930 Iapu;9
+312940 Ibertioga;8
+312950 Ibiá;72
+312960 Ibiaí;15
+312965 Ibiracatu;7
+312970 Ibiraci;17
+312980 Ibirité;75
+312990 Ibitiúra de Minas;4
+313000 Ibituruna;2
+313005 Icaraí de Minas;10
+313010 Igarapé;41
+313020 Igaratinga;11
+313030 Iguatama;12
+313040 Ijaci;6
+313050 Ilicínea;18
+313055 Imbé de Minas;7
+313060 Inconfidentes;4
+313065 Indaiabira;15
+313070 Indianópolis;7
+313080 Ingaí;3
+313090 Inhapim;42
+313100 Inhaúma;7
+313110 Inimutaba;6
+313115 Ipaba;13
+313120 Ipanema;39
+313130 Ipatinga;625
+313140 Ipiaçu;4
+313150 Ipuiúna;19
+313160 Iraí de Minas;8
+313170 Itabira;609
+313180 Itabirinha;9
+313190 Itabirito;124
+313200 Itacambira;6
+313210 Itacarambi;23
+313220 Itaguara;25
+313230 Itaipé;8
+313240 Itajubá;437
+313250 Itamarandiba;50
+313260 Itamarati de Minas;7
+313270 Itambacuri;39
+313280 Itambé do Mato Dentro;1
+313290 Itamogi;25
+313300 Itamonte;30
+313310 Itanhandu;53
+313320 Itanhomi;14
+313330 Itaobim;39
+313340 Itapagipe;33
+313350 Itapecerica;35
+313360 Itapeva;13
+313370 Itatiaiuçu;16
+313375 Itaú de Minas;42
+313380 Itaúna;365
+313390 Itaverava;6
+313400 Itinga;12
+313410 Itueta;5
+313420 Ituiutaba;229
+313430 Itumirim;9
+313440 Iturama;86
+313450 Itutinga;6
+313460 Jaboticatubas;22
+313470 Jacinto;18
+313480 Jacuí;15
+313490 Jacutinga;34
+313500 Jaguaraçu;6
+313505 Jaíba;37
+313507 Jampruca;3
+313510 Janaúba;118
+313520 Januária;117
+313530 Japaraíba;6
+313535 Japonvar;14
+313540 Jeceaba;10
+313545 Jenipapo de Minas;8
+313550 Jequeri;18
+313560 Jequitaí;12
+313570 Jequitibá;5
+313580 Jequitinhonha;38
+313590 Jesuânia;5
+313600 Joaíma;17
+313610 Joanésia;5
+313620 João Monlevade;348
+313630 João Pinheiro;80
+313640 Joaquim Felício;7
+313650 Jordânia;14
+313652 José Gonçalves de Minas;7
+313655 José Raydan;7
+313657 Josenópolis;5
+313665 Juatuba;40
+313670 Juiz de Fora;1546
+313680 Juramento;7
+313690 Juruaia;20
+313695 Juvenília;6
+313700 Ladainha;17
+313710 Lagamar;17
+313720 Lagoa da Prata;78
+313730 Lagoa dos Patos;8
+313740 Lagoa Dourada;14
+313750 Lagoa Formosa;50
+313753 Lagoa Grande;16
+313760 Lagoa Santa;137
+313770 Lajinha;19
+313780 Lambari;41
+313790 Lamim;5
+313800 Laranjal;16
+313810 Lassance;9
+313820 Lavras;531
+313830 Leandro Ferreira;5
+313835 Leme do Prado;11
+313840 Leopoldina;130
+313850 Liberdade;8
+313860 Lima Duarte;34
+313862 Limeira do Oeste;16
+313865 Lontra;14
+313867 Luisburgo;6
+313868 Luislândia;8
+313870 Luminárias;7
+313880 Luz;39
+313890 Machacalis;15
+313900 Machado;127
+313910 Madre de Deus de Minas;5
+313920 Malacacheta;21
+313925 Mamonas;10
+313930 Manga;21
+313940 Manhuaçu;486
+313950 Manhumirim;49
+313960 Mantena;33
+313980 Mar de Espanha;17
+313970 Maravilhas;5
+313990 Maria da Fé;32
+314000 Mariana;139
+314010 Marilac;5
+314015 Mário Campos;11
+314020 Maripá de Minas;5
+314030 Marliéria;4
+314040 Marmelópolis;3
+314050 Martinho Campos;30
+314053 Martins Soares;6
+314055 Mata Verde;3
+314060 Materlândia;4
+314070 Mateus Leme;92
+317150 Mathias Lobato;6
+314080 Matias Barbosa;21
+314085 Matias Cardoso;12
+314090 Matipó;30
+314100 Mato Verde;25
+314110 Matozinhos;39
+314120 Matutina;12
+314130 Medeiros;6
+314140 Medina;22
+314150 Mendes Pimentel;8
+314160 Mercês;16
+314170 Mesquita;5
+314180 Minas Novas;39
+314190 Minduri;8
+314200 Mirabela;18
+314210 Miradouro;13
+314220 Miraí;26
+314225 Miravânia;14
+314230 Moeda;6
+314240 Moema;13
+314250 Monjolos;6
+314260 Monsenhor Paulo;16
+314270 Montalvânia;18
+314280 Monte Alegre de Minas;14
+314290 Monte Azul;36
+314300 Monte Belo;21
+314310 Monte Carmelo;72
+314315 Monte Formoso;6
+314320 Monte Santo de Minas;34
+314340 Monte Sião;55
+314330 Montes Claros;727
+314345 Montezuma;11
+314350 Morada Nova de Minas;13
+314360 Morro da Garça;3
+314370 Morro do Pilar;2
+314380 Munhoz;6
+314390 Muriaé;249
+314400 Mutum;33
+314410 Muzambinho;46
+314420 Nacip Raydan;5
+314430 Nanuque;73
+314435 Naque;6
+314437 Natalândia;3
+314440 Natércia;7
+314450 Nazareno;15
+314460 Nepomuceno;35
+314465 Ninheira;12
+314467 Nova Belém;6
+314470 Nova Era;48
+314480 Nova Lima;229
+314490 Nova Módica;4
+314500 Nova Ponte;24
+314505 Nova Porteirinha;8
+314510 Nova Resende;25
+314520 Nova Serrana;88
+313660 Nova União;7
+314530 Novo Cruzeiro;30
+314535 Novo Oriente de Minas;11
+314537 Novorizonte;5
+314540 Olaria;5
+314545 Olhos-d'Água;9
+314550 Olímpio Noronha;4
+314560 Oliveira;89
+314570 Oliveira Fortes;3
+314580 Onça de Pitangui;7
+314585 Oratórios;6
+314587 Orizânia;9
+314590 Ouro Branco;90
+314600 Ouro Fino;87
+314610 Ouro Preto;187
+314620 Ouro Verde de Minas;5
+314625 Padre Carvalho;5
+314630 Padre Paraíso;22
+314655 Pai Pedro;8
+314640 Paineiras;10
+314650 Pains;7
+314660 Paiva;3
+314670 Palma;19
+314675 Palmópolis;8
+314690 Papagaios;17
+314710 Pará de Minas;188
+314700 Paracatu;140
+314720 Paraguaçu;26
+314730 Paraisópolis;54
+314740 Paraopeba;42
+314760 Passa Quatro;38
+314770 Passa Tempo;13
+314780 Passa-Vinte;6
+314750 Passabém;5
+314790 Passos;347
+314795 Patis;5
+314800 Patos de Minas;570
+314810 Patrocínio;197
+314820 Patrocínio do Muriaé;8
+314830 Paula Cândido;22
+314840 Paulistas;7
+314850 Pavão;9
+314860 Peçanha;24
+314870 Pedra Azul;35
+314875 Pedra Bonita;8
+314880 Pedra do Anta;6
+314890 Pedra do Indaiá;6
+314900 Pedra Dourada;6
+314910 Pedralva;21
+314915 Pedras de Maria da Cruz;13
+314920 Pedrinópolis;7
+314930 Pedro Leopoldo;147
+314940 Pedro Teixeira;4
+314950 Pequeri;6
+314960 Pequi;6
+314970 Perdigão;12
+314980 Perdizes;32
+314990 Perdões;44
+314995 Periquito;6
+315000 Pescador;4
+315010 Piau;5
+315015 Piedade de Caratinga;9
+315020 Piedade de Ponte Nova;5
+315030 Piedade do Rio Grande;8
+315040 Piedade dos Gerais;6
+315050 Pimenta;14
+315053 Pingo-d'Água;6
+315057 Pintópolis;8
+315060 Piracema;10
+315070 Pirajuba;3
+315080 Piranga;24
+315090 Piranguçu;9
+315100 Piranguinho;15
+315110 Pirapetinga;21
+315120 Pirapora;108
+315130 Piraúba;21
+315140 Pitangui;46
+315150 Piumhi;103
+315160 Planura;15
+315170 Poço Fundo;26
+315180 Poços de Caldas;824
+315190 Pocrane;9
+315200 Pompéu;48
+315210 Ponte Nova;213
+315213 Ponto Chique;7
+315217 Ponto dos Volantes;15
+315220 Porteirinha;53
+315230 Porto Firme;12
+315240 Poté;15
+315250 Pouso Alegre;816
+315260 Pouso Alto;9
+315270 Prados;11
+315280 Prata;39
+315290 Pratápolis;10
+315300 Pratinha;6
+315310 Presidente Bernardes;10
+315320 Presidente Juscelino;4
+315330 Presidente Kubitschek;5
+315340 Presidente Olegário;25
+315360 Prudente de Morais;8
+315370 Quartel Geral;4
+315380 Queluzito;3
+315390 Raposos;12
+315400 Raul Soares;50
+315410 Recreio;20
+315415 Reduto;6
+315420 Resende Costa;31
+315430 Resplendor;22
+315440 Ressaquinha;6
+315445 Riachinho;11
+315450 Riacho dos Machados;10
+315460 Ribeirão das Neves;143
+315470 Ribeirão Vermelho;7
+315480 Rio Acima;8
+315490 Rio Casca;39
+315510 Rio do Prado;7
+315500 Rio Doce;4
+315520 Rio Espera;6
+315530 Rio Manso;5
+315540 Rio Novo;15
+315550 Rio Paranaíba;26
+315560 Rio Pardo de Minas;27
+315570 Rio Piracicaba;23
+315580 Rio Pomba;35
+315590 Rio Preto;9
+315600 Rio Vermelho;15
+315610 Ritápolis;9
+315620 Rochedo de Minas;5
+315630 Rodeiro;10
+315640 Romaria;2
+315645 Rosário da Limeira;6
+315650 Rubelita;11
+315660 Rubim;12
+315670 Sabará;85
+315680 Sabinópolis;23
+315690 Sacramento;57
+315700 Salinas;79
+315710 Salto da Divisa;10
+315720 Santa Bárbara;60
+315725 Santa Bárbara do Leste;4
+315727 Santa Bárbara do Monte Verde;8
+315730 Santa Bárbara do Tugúrio;3
+315733 Santa Cruz de Minas;8
+315737 Santa Cruz de Salinas;5
+315740 Santa Cruz do Escalvado;11
+315750 Santa Efigênia de Minas;4
+315760 Santa Fé de Minas;6
+315765 Santa Helena de Minas;6
+315770 Santa Juliana;23
+315780 Santa Luzia;154
+315790 Santa Margarida;20
+315800 Santa Maria de Itabira;13
+315810 Santa Maria do Salto;3
+315820 Santa Maria do Suaçuí;20
+315920 Santa Rita de Caldas;23
+315940 Santa Rita de Ibitipoca;4
+315930 Santa Rita de Jacutinga;2
+315935 Santa Rita de Minas;11
+315950 Santa Rita do Itueto;11
+315960 Santa Rita do Sapucaí;153
+315970 Santa Rosa da Serra;10
+315980 Santa Vitória;27
+315830 Santana da Vargem;8
+315840 Santana de Cataguases;6
+315850 Santana de Pirapama;7
+315860 Santana do Deserto;7
+315870 Santana do Garambéu;4
+315880 Santana do Jacaré;8
+315890 Santana do Manhuaçu;10
+315895 Santana do Paraíso;24
+315900 Santana do Riacho;5
+315910 Santana dos Montes;4
+315990 Santo Antônio do Amparo;31
+316000 Santo Antônio do Aventureiro;7
+316010 Santo Antônio do Grama;6
+316020 Santo Antônio do Itambé;2
+316030 Santo Antônio do Jacinto;8
+316040 Santo Antônio do Monte;47
+316045 Santo Antônio do Retiro;12
+316050 Santo Antônio do Rio Abaixo;3
+316060 Santo Hipólito;5
+316070 Santos Dumont;69
+316080 São Bento Abade;5
+316090 São Brás do Suaçuí;6
+316095 São Domingos das Dores;7
+316100 São Domingos do Prata;22
+316105 São Félix de Minas;8
+316110 São Francisco;46
+316120 São Francisco de Paula;6
+316130 São Francisco de Sales;10
+316140 São Francisco do Glória;8
+316150 São Geraldo;7
+316160 São Geraldo da Piedade;3
+316165 São Geraldo do Baixio;5
+316170 São Gonçalo do Abaeté;8
+316180 São Gonçalo do Pará;8
+316190 São Gonçalo do Rio Abaixo;14
+312550 São Gonçalo do Rio Preto;5
+316200 São Gonçalo do Sapucaí;63
+316210 São Gotardo;55
+316220 São João Batista do Glória;12
+316225 São João da Lagoa;4
+316230 São João da Mata;6
+316240 São João da Ponte;20
+316245 São João das Missões;15
+316250 São João del Rei;313
+316255 São João do Manhuaçu;14
+316257 São João do Manteninha;7
+316260 São João do Oriente;9
+316265 São João do Pacuí;7
+316270 São João do Paraíso;21
+316280 São João Evangelista;15
+316290 São João Nepomuceno;37
+316292 São Joaquim de Bicas;31
+316294 São José da Barra;20
+316295 São José da Lapa;23
+316300 São José da Safira;4
+316310 São José da Varginha;9
+316320 São José do Alegre;5
+316330 São José do Divino;6
+316340 São José do Goiabal;5
+316350 São José do Jacuri;7
+316360 São José do Mantimento;3
+316370 São Lourenço;242
+316380 São Miguel do Anta;12
+316390 São Pedro da União;8
+316410 São Pedro do Suaçuí;8
+316400 São Pedro dos Ferros;15
+316420 São Romão;12
+316430 São Roque de Minas;13
+316440 São Sebastião da Bela Vista;5
+316443 São Sebastião da Vargem Alegre;6
+316447 São Sebastião do Anta;5
+316450 São Sebastião do Maranhão;6
+316460 São Sebastião do Oeste;11
+316470 São Sebastião do Paraíso;185
+316480 São Sebastião do Rio Preto;3
+316490 São Sebastião do Rio Verde;4
+316520 São Thomé das Letras;10
+316500 São Tiago;12
+316510 São Tomás de Aquino;12
+316530 São Vicente de Minas;17
+316540 Sapucaí-Mirim;8
+316550 Sardoá;5
+316553 Sarzedo;37
+316556 Sem-Peixe;6
+316557 Senador Amaral;7
+316560 Senador Cortes;4
+316570 Senador Firmino;13
+316580 Senador José Bento;5
+316590 Senador Modestino Gonçalves;3
+316600 Senhora de Oliveira;7
+316610 Senhora do Porto;5
+316620 Senhora dos Remédios;8
+316630 Sericita;11
+316640 Seritinga;3
+316650 Serra Azul de Minas;3
+316660 Serra da Saudade;4
+316680 Serra do Salitre;21
+316670 Serra dos Aimorés;6
+316690 Serrania;13
+316695 Serranópolis de Minas;7
+316700 Serranos;4
+316710 Serro;26
+316720 Sete Lagoas;551
+316555 Setubinha;8
+316730 Silveirânia;4
+316740 Silvianópolis;10
+316750 Simão Pereira;5
+316760 Simonésia;23
+316770 Sobrália;11
+316780 Soledade de Minas;2
+316790 Tabuleiro;7
+316800 Taiobeiras;54
+316805 Taparuba;5
+316810 Tapira;3
+316820 Tapiraí;3
+316830 Taquaraçu de Minas;6
+316840 Tarumirim;16
+316850 Teixeiras;15
+316860 Teófilo Otoni;475
+316870 Timóteo;141
+316880 Tiradentes;6
+316890 Tiros;13
+316900 Tocantins;18
+316905 Tocos do Moji;6
+316910 Toledo;6
+316920 Tombos;35
+316930 Três Corações;264
+316935 Três Marias;62
+316940 Três Pontas;203
+316950 Tumiritinga;7
+316960 Tupaciguara;23
+316970 Turmalina;32
+316980 Turvolândia;5
+316990 Ubá;178
+317000 Ubaí;19
+317005 Ubaporanga;11
+317010 Uberaba;666
+317020 Uberlândia;1793
+317030 Umburatiba;4
+317040 Unaí;148
+317043 União de Minas;6
+317047 Uruana de Minas;6
+317050 Urucânia;6
+317052 Urucuia;13
+317057 Vargem Alegre;4
+317060 Vargem Bonita;6
+317065 Vargem Grande do Rio Pardo;10
+317070 Varginha;778
+317075 Varjão de Minas;8
+317080 Várzea da Palma;47
+317090 Varzelândia;20
+317100 Vazante;40
+317103 Verdelândia;11
+317107 Veredinha;5
+317110 Veríssimo;4
+317115 Vermelho Novo;3
+317120 Vespasiano;126
+317130 Viçosa;426
+317140 Vieiras;5
+317160 Virgem da Lapa;16
+317170 Virgínia;11
+317180 Virginópolis;19
+317190 Virgolândia;8
+317200 Visconde do Rio Branco;86
+317210 Volta Grande;10
+317220 Wenceslau Braz;2
+320010 Afonso Cláudio;40
+320016 Água Doce do Norte;11
+320013 Águia Branca;19
+320020 Alegre;78
+320030 Alfredo Chaves;26
+320035 Alto Rio Novo;8
+320040 Anchieta;73
+320050 Apiacá;7
+320060 Aracruz;243
+320070 Atilio Vivacqua;18
+320080 Baixo Guandu;61
+320090 Barra de São Francisco;88
+320100 Boa Esperança;22
+320110 Bom Jesus do Norte;11
+320115 Brejetuba;26
+320120 Cachoeiro de Itapemirim;461
+320130 Cariacica;221
+320140 Castelo;110
+320150 Colatina;403
+320160 Conceição da Barra;20
+320170 Conceição do Castelo;22
+320180 Divino de São Lourenço;10
+320190 Domingos Martins;63
+320200 Dores do Rio Preto;9
+320210 Ecoporanga;29
+320220 Fundão;23
+320225 Governador Lindenberg;25
+320230 Guaçuí;88
+320240 Guarapari;162
+320245 Ibatiba;49
+320250 Ibiraçu;32
+320255 Ibitirama;12
+320260 Iconha;41
+320265 Irupi;22
+320270 Itaguaçu;25
+320280 Itapemirim;75
+320290 Itarana;19
+320300 Iúna;71
+320305 Jaguaré;44
+320310 Jerônimo Monteiro;28
+320313 João Neiva;43
+320316 Laranja da Terra;24
+320320 Linhares;515
+320330 Mantenópolis;14
+320332 Marataízes;76
+320334 Marechal Floriano;27
+320335 Marilândia;26
+320340 Mimoso do Sul;52
+320350 Montanha;27
+320360 Mucurici;9
+320370 Muniz Freire;27
+320380 Muqui;21
+320390 Nova Venécia;89
+320400 Pancas;28
+320405 Pedro Canário;20
+320410 Pinheiros;41
+320420 Piúma;37
+320425 Ponto Belo;13
+320430 Presidente Kennedy;23
+320435 Rio Bananal;29
+320440 Rio Novo do Sul;14
+320450 Santa Leopoldina;9
+320455 Santa Maria de Jetibá;62
+320460 Santa Teresa;57
+320465 São Domingos do Norte;13
+320470 São Gabriel da Palha;113
+320480 São José do Calçado;20
+320490 São Mateus;239
+320495 São Roque do Canaã;19
+320500 Serra;277
+320501 Sooretama;17
+320503 Vargem Alta;47
+320506 Venda Nova do Imigrante;91
+320510 Viana;45
+320515 Vila Pavão;15
+320517 Vila Valério;14
+320520 Vila Velha;915
+320530 Vitória;1050
+330010 Angra dos Reis;520
+330015 Aperibé;16
+330020 Araruama;281
+330022 Areal;23
+330023 Armação dos Búzios;50
+330025 Arraial do Cabo;23
+330030 Barra do Piraí;147
+330040 Barra Mansa;406
+330045 Belford Roxo;163
+330050 Bom Jardim;45
+330060 Bom Jesus do Itabapoana;119
+330070 Cabo Frio;397
+330080 Cachoeiras de Macacu;87
+330090 Cambuci;20
+330100 Campos dos Goytacazes;1058
+330110 Cantagalo;54
+330093 Carapebus;19
+330115 Cardoso Moreira;13
+330120 Carmo;40
+330130 Casimiro de Abreu;55
+330095 Comendador Levy Gasparian;21
+330140 Conceição de Macabu;38
+330150 Cordeiro;55
+330160 Duas Barras;25
+330170 Duque de Caxias;486
+330180 Engenheiro Paulo de Frontin;22
+330185 Guapimirim;44
+330187 Iguaba Grande;42
+330190 Itaboraí;259
+330200 Itaguaí;155
+330205 Italva;19
+330210 Itaocara;42
+330220 Itaperuna;373
+330225 Itatiaia;50
+330227 Japeri;32
+330230 Laje do Muriaé;13
+330240 Macaé;887
+330245 Macuco;15
+330250 Magé;195
+330260 Mangaratiba;39
+330270 Maricá;138
+330280 Mendes;45
+330285 Mesquita;55
+330290 Miguel Pereira;87
+330300 Miracema;56
+330310 Natividade;45
+330320 Nilópolis;108
+330330 Niterói;1764
+330340 Nova Friburgo;504
+330350 Nova Iguaçu;968
+330360 Paracambi;67
+330370 Paraíba do Sul;77
+330380 Paraty;38
+330385 Paty do Alferes;39
+330390 Petrópolis;588
+330395 Pinheiral;32
+330400 Piraí;41
+330410 Porciúncula;47
+330411 Porto Real;44
+330412 Quatis;26
+330414 Queimados;55
+330415 Quissamã;23
+330420 Resende;485
+330430 Rio Bonito;104
+330440 Rio Claro;26
+330450 Rio das Flores;20
+330452 Rio das Ostras;246
+330455 Rio de Janeiro;9984
+330460 Santa Maria Madalena;20
+330470 Santo Antônio de Pádua;54
+330480 São Fidélis;56
+330475 São Francisco de Itabapoana;55
+330490 São Gonçalo;921
+330500 São João da Barra;51
+330510 São João de Meriti;295
+330513 São José de Ubá;10
+330515 São José do Vale do Rio Preto;31
+330520 São Pedro da Aldeia;94
+330530 São Sebastião do Alto;11
+330540 Sapucaia;37
+330550 Saquarema;136
+330555 Seropédica;51
+330560 Silva Jardim;39
+330570 Sumidouro;25
+330575 Tanguá;39
+330580 Teresópolis;275
+330590 Trajano de Moraes;17
+330600 Três Rios;315
+330610 Valença;142
+330615 Varre-Sai;17
+330620 Vassouras;96
+330630 Volta Redonda;718
+350010 Adamantina;140
+350020 Adolfo;5
+350030 Aguaí;64
+350040 Águas da Prata;4
+350050 Águas de Lindóia;41
+350055 Águas de Santa Bárbara;11
+350060 Águas de São Pedro;6
+350070 Agudos;46
+350075 Alambari;8
+350080 Alfredo Marcondes;3
+350090 Altair;9
+350100 Altinópolis;48
+350110 Alto Alegre;8
+350115 Alumínio;12
+350120 Álvares Florence;4
+350130 Álvares Machado;22
+350140 Álvaro de Carvalho;3
+350150 Alvinlândia;3
+350160 Americana;931
+350170 Américo Brasiliense;31
+350180 Américo de Campos;8
+350190 Amparo;284
+350200 Analândia;4
+350210 Andradina;222
+350220 Angatuba;35
+350230 Anhembi;10
+350240 Anhumas;6
+350250 Aparecida;41
+350260 Aparecida d'Oeste;7
+350270 Apiaí;46
+350275 Araçariguama;20
+350280 Araçatuba;795
+350290 Araçoiaba da Serra;26
+350300 Aramina;12
+350310 Arandu;5
+350315 Arapeí;4
+350320 Araraquara;757
+350330 Araras;296
+350335 Arco-Íris;2
+350340 Arealva;13
+350350 Areias;5
+350360 Areiópolis;15
+350370 Ariranha;14
+350380 Artur Nogueira;87
+350390 Arujá;69
+350395 Aspásia;2
+350400 Assis;412
+350410 Atibaia;315
+350420 Auriflama;30
+350430 Avaí;2
+350440 Avanhandava;17
+350450 Avaré;253
+350460 Bady Bassitt;12
+350470 Balbinos;5
+350480 Bálsamo;4
+350490 Bananal;10
+350500 Barão de Antonina;4
+350510 Barbosa;3
+350520 Bariri;67
+350530 Barra Bonita;99
+350535 Barra do Chapéu;7
+350540 Barra do Turvo;7
+350550 Barretos;317
+350560 Barrinha;31
+350570 Barueri;372
+350580 Bastos;36
+350590 Batatais;265
+350600 Bauru;844
+350610 Bebedouro;275
+350620 Bento de Abreu;4
+350630 Bernardino de Campos;16
+350635 Bertioga;43
+350640 Bilac;9
+350650 Birigui;209
+350660 Biritiba-Mirim;21
+350670 Boa Esperança do Sul;22
+350680 Bocaina;21
+350690 Bofete;2
+350700 Boituva;99
+350710 Bom Jesus dos Perdões;19
+350715 Bom Sucesso de Itararé;4
+350720 Borá;2
+350730 Boracéia;4
+350740 Borborema;34
+350745 Borebi;3
+350750 Botucatu;644
+350760 Bragança Paulista;400
+350770 Braúna;2
+350775 Brejo Alegre;4
+350780 Brodowski;52
+350790 Brotas;71
+350800 Buri;19
+350810 Buritama;24
+350820 Buritizal;7
+350830 Cabrália Paulista;4
+350840 Cabreúva;37
+350850 Caçapava;304
+350860 Cachoeira Paulista;59
+350870 Caconde;37
+350880 Cafelândia;42
+350890 Caiabu;5
+350900 Caieiras;74
+350910 Caiuá;7
+350920 Cajamar;65
+350925 Cajati;38
+350930 Cajobi;11
+350940 Cajuru;74
+350945 Campina do Monte Alegre;4
+350950 Campinas;1789
+350960 Campo Limpo Paulista;33
+350970 Campos do Jordão;83
+350980 Campos Novos Paulista;2
+350990 Cananéia;8
+350995 Canas;3
+351000 Cândido Mota;80
+351010 Cândido Rodrigues;3
+351015 Canitar;3
+351020 Capão Bonito;48
+351030 Capela do Alto;18
+351040 Capivari;145
+351050 Caraguatatuba;203
+351060 Carapicuíba;114
+351070 Cardoso;21
+351080 Casa Branca;78
+351090 Cássia dos Coqueiros;5
+351100 Castilho;25
+351110 Catanduva;539
+351120 Catiguá;11
+351130 Cedral;20
+351140 Cerqueira César;26
+351150 Cerquilho;125
+351160 Cesário Lange;16
+351170 Charqueada;23
+355720 Chavantes;20
+351190 Clementina;10
+351200 Colina;40
+351210 Colômbia;11
+351220 Conchal;39
+351230 Conchas;42
+351240 Cordeirópolis;41
+351250 Coroados;2
+351260 Coronel Macedo;5
+351270 Corumbataí;6
+351280 Cosmópolis;81
+351290 Cosmorama;5
+351300 Cotia;175
+351310 Cravinhos;60
+351320 Cristais Paulista;13
+351330 Cruzália;4
+351340 Cruzeiro;287
+351350 Cubatão;170
+351360 Cunha;22
+351370 Descalvado;122
+351380 Diadema;181
+351385 Dirce Reis;3
+351390 Divinolândia;29
+351400 Dobrada;6
+351410 Dois Córregos;48
+351420 Dolcinópolis;4
+351430 Dourado;13
+351440 Dracena;215
+351450 Duartina;47
+351460 Dumont;5
+351470 Echaporã;6
+351480 Eldorado;7
+351490 Elias Fausto;14
+351492 Elisiário;3
+351495 Embaúba;3
+351500 Embu das Artes;91
+351510 Embu-Guaçu;38
+351512 Emilianópolis;3
+351515 Engenheiro Coelho;19
+351518 Espírito Santo do Pinhal;167
+351519 Espírito Santo do Turvo;5
+355730 Estiva Gerbi;12
+351520 Estrela d'Oeste;28
+351530 Estrela do Norte;2
+351535 Euclides da Cunha Paulista;13
+351540 Fartura;34
+351560 Fernando Prestes;7
+351550 Fernandópolis;392
+351565 Fernão;2
+351570 Ferraz de Vasconcelos;58
+351580 Flora Rica;3
+351590 Floreal;3
+351600 Flórida Paulista;16
+351610 Florínia;7
+351620 Franca;830
+351630 Francisco Morato;74
+351640 Franco da Rocha;104
+351650 Gabriel Monteiro;3
+351660 Gália;11
+351670 Garça;73
+351680 Gastão Vidigal;2
+351685 Gavião Peixoto;6
+351690 General Salgado;19
+351700 Getulina;16
+351710 Glicério;3
+351720 Guaiçara;14
+351730 Guaimbê;7
+351740 Guaíra;70
+351750 Guapiaçu;21
+351760 Guapiara;20
+351770 Guará;50
+351780 Guaraçaí;15
+351790 Guaraci;19
+351800 Guarani d'Oeste;4
+351810 Guarantã;6
+351820 Guararapes;63
+351830 Guararema;26
+351840 Guaratinguetá;343
+351850 Guareí;12
+351860 Guariba;50
+351870 Guarujá;363
+351880 Guarulhos;823
+351885 Guatapará;10
+351890 Guzolândia;3
+351900 Herculândia;16
+351905 Holambra;22
+351907 Hortolândia;179
+351910 Iacanga;18
+351920 Iacri;5
+351925 Iaras;8
+351930 Ibaté;44
+351940 Ibirá;20
+351950 Ibirarema;7
+351960 Ibitinga;153
+351970 Ibiúna;56
+351980 Icém;21
+351990 Iepê;20
+352000 Igaraçu do Tietê;22
+352010 Igarapava;65
+352020 Igaratá;7
+352030 Iguape;27
+352042 Ilha Comprida;11
+352044 Ilha Solteira;102
+352040 Ilhabela;29
+352050 Indaiatuba;401
+352060 Indiana;8
+352070 Indiaporã;6
+352080 Inúbia Paulista;2
+352090 Ipaussu;19
+352100 Iperó;31
+352110 Ipeúna;8
+352115 Ipiguá;3
+352120 Iporanga;5
+352130 Ipuã;37
+352140 Iracemápolis;32
+352150 Irapuã;10
+352160 Irapuru;11
+352170 Itaberá;21
+352180 Itaí;35
+352190 Itajobi;30
+352200 Itaju;3
+352210 Itanhaém;80
+352215 Itaóca;3
+352220 Itapecerica da Serra;66
+352230 Itapetininga;404
+352240 Itapeva;263
+352250 Itapevi;106
+352260 Itapira;153
+352265 Itapirapuã Paulista;5
+352270 Itápolis;93
+352280 Itaporanga;14
+352290 Itapuí;13
+352300 Itapura;5
+352310 Itaquaquecetuba;96
+352320 Itararé;79
+352330 Itariri;13
+352340 Itatiba;192
+352350 Itatinga;19
+352360 Itirapina;28
+352370 Itirapuã;6
+352380 Itobi;6
+352390 Itu;333
+352400 Itupeva;55
+352410 Ituverava;194
+352420 Jaborandi;9
+352430 Jaboticabal;175
+352440 Jacareí;461
+352450 Jaci;10
+352460 Jacupiranga;21
+352470 Jaguariúna;98
+352480 Jales;229
+352490 Jambeiro;7
+352500 Jandira;54
+352510 Jardinópolis;65
+352520 Jarinu;26
+352530 Jaú;476
+352540 Jeriquara;3
+352550 Joanópolis;12
+352560 João Ramalho;6
+352570 José Bonifácio;64
+352580 Júlio Mesquita;5
+352585 Jumirim;5
+352590 Jundiaí;1648
+352600 Junqueirópolis;35
+352610 Juquiá;15
+352620 Juquitiba;15
+352630 Lagoinha;8
+352640 Laranjal Paulista;89
+352650 Lavínia;7
+352660 Lavrinhas;5
+352670 Leme;202
+352680 Lençóis Paulista;214
+352690 Limeira;776
+352700 Lindóia;14
+352710 Lins;514
+352720 Lorena;258
+352725 Lourdes;5
+352730 Louveira;47
+352740 Lucélia;40
+352750 Lucianópolis;3
+352760 Luís Antônio;21
+352770 Luiziânia;6
+352780 Lupércio;5
+352790 Lutécia;3
+352800 Macatuba;31
+352810 Macaubal;11
+352820 Macedônia;4
+352830 Magda;5
+352840 Mairinque;63
+352850 Mairiporã;61
+352860 Manduri;14
+352870 Marabá Paulista;5
+352880 Maracaí;15
+352885 Marapoama;3
+352890 Mariápolis;3
+352900 Marília;953
+352910 Marinópolis;3
+352920 Martinópolis;43
+352930 Matão;219
+352940 Mauá;290
+352950 Mendonça;6
+352960 Meridiano;6
+352965 Mesópolis;2
+352970 Miguelópolis;39
+352980 Mineiros do Tietê;10
+353000 Mira Estrela;5
+352990 Miracatu;17
+353010 Mirandópolis;53
+353020 Mirante do Paranapanema;23
+353030 Mirassol;140
+353040 Mirassolândia;2
+353050 Mococa;243
+353060 Mogi das Cruzes;332
+353070 Mogi Guaçu;366
+353080 Mogi Mirim;238
+353090 Mombuca;4
+353100 Monções;6
+353110 Mongaguá;45
+353120 Monte Alegre do Sul;15
+353130 Monte Alto;215
+353140 Monte Aprazível;47
+353150 Monte Azul Paulista;38
+353160 Monte Castelo;5
+353180 Monte Mor;64
+353170 Monteiro Lobato;6
+353190 Morro Agudo;74
+353200 Morungaba;19
+353205 Motuca;5
+353210 Murutinga do Sul;6
+353215 Nantes;4
+353220 Narandiba;5
+353230 Natividade da Serra;7
+353240 Nazaré Paulista;8
+353250 Neves Paulista;15
+353260 Nhandeara;38
+353270 Nipoã;3
+353280 Nova Aliança;4
+353282 Nova Campina;7
+353284 Nova Canaã Paulista;4
+353286 Nova Castilho;4
+353290 Nova Europa;19
+353300 Nova Granada;29
+353310 Nova Guataporanga;4
+353320 Nova Independência;8
+353330 Nova Luzitânia;4
+353340 Nova Odessa;73
+353325 Novais;3
+353350 Novo Horizonte;102
+353360 Nuporanga;24
+353370 Ocauçu;4
+353380 Óleo;4
+353390 Olímpia;156
+353400 Onda Verde;7
+353410 Oriente;12
+353420 Orindiúva;15
+353430 Orlândia;181
+353440 Osasco;1022
+353450 Oscar Bressane;3
+353460 Osvaldo Cruz;79
+353470 Ourinhos;434
+353480 Ouro Verde;7
+353475 Ouroeste;27
+353490 Pacaembu;26
+353500 Palestina;16
+353510 Palmares Paulista;17
+353520 Palmeira d'Oeste;12
+353530 Palmital;50
+353540 Panorama;17
+353550 Paraguaçu Paulista;114
+353560 Paraibuna;14
+353570 Paraíso;9
+353580 Paranapanema;45
+353590 Paranapuã;2
+353600 Parapuã;9
+353610 Pardinho;4
+353620 Pariquera-Açu;28
+353625 Parisi;2
+353630 Patrocínio Paulista;18
+353640 Paulicéia;5
+353650 Paulínia;182
+353657 Paulistânia;3
+353660 Paulo de Faria;7
+353670 Pederneiras;83
+353680 Pedra Bela;4
+353690 Pedranópolis;5
+353700 Pedregulho;23
+353710 Pedreira;60
+353715 Pedrinhas Paulista;8
+353720 Pedro de Toledo;11
+353730 Penápolis;185
+353740 Pereira Barreto;66
+353750 Pereiras;11
+353760 Peruíbe;70
+353770 Piacatu;4
+353780 Piedade;61
+353790 Pilar do Sul;27
+353800 Pindamonhangaba;424
+353810 Pindorama;20
+353820 Pinhalzinho;18
+353830 Piquerobi;3
+353850 Piquete;14
+353860 Piracaia;20
+353870 Piracicaba;1071
+353880 Piraju;86
+353890 Pirajuí;57
+353900 Pirangi;24
+353910 Pirapora do Bom Jesus;11
+353920 Pirapozinho;36
+353930 Pirassununga;257
+353940 Piratininga;9
+353950 Pitangueiras;72
+353960 Planalto;3
+353970 Platina;2
+353980 Poá;64
+353990 Poloni;8
+354000 Pompéia;114
+354010 Pongaí;2
+354020 Pontal;83
+354025 Pontalinda;2
+354030 Pontes Gestal;4
+354040 Populina;4
+354050 Porangaba;14
+354060 Porto Feliz;94
+354070 Porto Ferreira;177
+354075 Potim;14
+354080 Potirendaba;21
+354085 Pracinha;3
+354090 Pradópolis;20
+354100 Praia Grande;255
+354105 Pratânia;5
+354110 Presidente Alves;4
+354120 Presidente Bernardes;28
+354130 Presidente Epitácio;60
+354140 Presidente Prudente;894
+354150 Presidente Venceslau;98
+354160 Promissão;86
+354165 Quadra;5
+354170 Quatá;29
+354180 Queiroz;2
+354190 Queluz;11
+354200 Quintana;25
+354210 Rafard;5
+354220 Rancharia;75
+354230 Redenção da Serra;5
+354240 Regente Feijó;33
+354250 Reginópolis;8
+354260 Registro;110
+354270 Restinga;4
+354280 Ribeira;4
+354290 Ribeirão Bonito;24
+354300 Ribeirão Branco;10
+354310 Ribeirão Corrente;5
+354320 Ribeirão do Sul;3
+354323 Ribeirão dos Índios;2
+354325 Ribeirão Grande;3
+354330 Ribeirão Pires;118
+354340 Ribeirão Preto;2391
+354360 Rifaina;7
+354370 Rincão;13
+354380 Rinópolis;10
+354390 Rio Claro;592
+354400 Rio das Pedras;84
+354410 Rio Grande da Serra;19
+354420 Riolândia;11
+354350 Riversul;7
+354425 Rosana;40
+354430 Roseira;13
+354440 Rubiácea;4
+354450 Rubinéia;3
+354460 Sabino;5
+354470 Sagres;2
+354480 Sales;4
+354490 Sales Oliveira;38
+354500 Salesópolis;16
+354510 Salmourão;3
+354515 Saltinho;5
+354520 Salto;189
+354530 Salto de Pirapora;69
+354540 Salto Grande;7
+354550 Sandovalina;3
+354560 Santa Adélia;36
+354570 Santa Albertina;7
+354580 Santa Bárbara d'Oeste;296
+354600 Santa Branca;13
+354610 Santa Clara d'Oeste;4
+354620 Santa Cruz da Conceição;4
+354625 Santa Cruz da Esperança;7
+354630 Santa Cruz das Palmeiras;70
+354640 Santa Cruz do Rio Pardo;141
+354650 Santa Ernestina;3
+354660 Santa Fé do Sul;110
+354670 Santa Gertrudes;45
+354680 Santa Isabel;30
+354690 Santa Lúcia;6
+354700 Santa Maria da Serra;8
+354710 Santa Mercedes;5
+354740 Santa Rita d'Oeste;4
+354750 Santa Rita do Passa Quatro;76
+354760 Santa Rosa de Viterbo;63
+354765 Santa Salete;2
+354720 Santana da Ponte Pensa;2
+354730 Santana de Parnaíba;47
+354770 Santo Anastácio;43
+354780 Santo André;663
+354790 Santo Antônio da Alegria;20
+354800 Santo Antônio de Posse;27
+354805 Santo Antônio do Aracanguá;4
+354810 Santo Antônio do Jardim;9
+354820 Santo Antônio do Pinhal;15
+354830 Santo Expedito;2
+354840 Santópolis do Aguapeí;3
+354850 Santos;1590
+354860 São Bento do Sapucaí;15
+354870 São Bernardo do Campo;817
+354880 São Caetano do Sul;716
+354890 São Carlos;757
+354900 São Francisco;5
+354910 São João da Boa Vista;570
+354920 São João das Duas Pontes;2
+354925 São João de Iracema;4
+354930 São João do Pau d'Alho;6
+354940 São Joaquim da Barra;186
+354950 São José da Bela Vista;8
+354960 São José do Barreiro;5
+354970 São José do Rio Pardo;199
+354980 São José do Rio Preto;1131
+354990 São José dos Campos;1750
+354995 São Lourenço da Serra;10
+355000 São Luís do Paraitinga;11
+355010 São Manuel;113
+355020 São Miguel Arcanjo;57
+355030 São Paulo;18062
+355040 São Pedro;83
+355050 São Pedro do Turvo;6
+355060 São Roque;235
+355070 São Sebastião;194
+355080 São Sebastião da Grama;27
+355090 São Simão;37
+355100 São Vicente;276
+355110 Sarapuí;9
+355120 Sarutaiá;2
+355130 Sebastianópolis do Sul;4
+355140 Serra Azul;12
+355160 Serra Negra;71
+355150 Serrana;48
+355170 Sertãozinho;378
+355180 Sete Barras;8
+355190 Severínia;16
+355200 Silveiras;7
+355210 Socorro;72
+355220 Sorocaba;1143
+355230 Sud Mennucci;7
+355240 Sumaré;243
+355255 Suzanápolis;4
+355250 Suzano;264
+355260 Tabapuã;21
+355270 Tabatinga;43
+355280 Taboão da Serra;128
+355290 Taciba;5
+355300 Taguaí;15
+355310 Taiaçu;11
+355320 Taiúva;17
+355330 Tambaú;77
+355340 Tanabi;48
+355350 Tapiraí;10
+355360 Tapiratiba;16
+355365 Taquaral;3
+355370 Taquaritinga;155
+355380 Taquarituba;18
+355385 Taquarivaí;6
+355390 Tarabai;7
+355395 Tarumã;19
+355400 Tatuí;351
+355410 Taubaté;827
+355420 Tejupá;4
+355430 Teodoro Sampaio;34
+355440 Terra Roxa;19
+355450 Tietê;140
+355460 Timburi;3
+355465 Torre de Pedra;3
+355470 Torrinha;7
+355475 Trabiju;2
+355480 Tremembé;48
+355490 Três Fronteiras;4
+355495 Tuiuti;6
+355500 Tupã;234
+355510 Tupi Paulista;44
+355520 Turiúba;2
+355530 Turmalina;4
+355535 Ubarana;3
+355540 Ubatuba;65
+355550 Ubirajara;6
+355560 Uchoa;24
+355570 União Paulista;3
+355580 Urânia;8
+355590 Uru;3
+355600 Urupês;26
+355610 Valentim Gentil;16
+355620 Valinhos;413
+355630 Valparaíso;39
+355635 Vargem;3
+355640 Vargem Grande do Sul;119
+355645 Vargem Grande Paulista;45
+355650 Várzea Paulista;45
+355660 Vera Cruz;22
+355670 Vinhedo;283
+355680 Viradouro;44
+355690 Vista Alegre do Alto;8
+355695 Vitória Brasil;3
+355700 Votorantim;103
+355710 Votuporanga;335
+355715 Zacarias;3
+410010 Abatiá;8
+410020 Adrianópolis;10
+410030 Agudos do Sul;14
+410040 Almirante Tamandaré;58
+410045 Altamira do Paraná;7
+412862 Alto Paraíso;5
+410060 Alto Paraná;16
+410070 Alto Piquiri;16
+410050 Altônia;36
+410080 Alvorada do Sul;14
+410090 Amaporã;6
+410100 Ampére;29
+410105 Anahy;5
+410110 Andirá;44
+410115 Ângulo;3
+410120 Antonina;21
+410130 Antônio Olinto;13
+410140 Apucarana;407
+410150 Arapongas;266
+410160 Arapoti;58
+410165 Arapuã;7
+410170 Araruna;24
+410180 Araucária;142
+410185 Ariranha do Ivaí;3
+410190 Assaí;33
+410200 Assis Chateaubriand;113
+410210 Astorga;60
+410220 Atalaia;9
+410230 Balsa Nova;9
+410240 Bandeirantes;58
+410250 Barbosa Ferraz;20
+410270 Barra do Jacaré;1
+410260 Barracão;16
+410275 Bela Vista da Caroba;8
+410280 Bela Vista do Paraíso;26
+410290 Bituruna;18
+410300 Boa Esperança;7
+410302 Boa Esperança do Iguaçu;5
+410304 Boa Ventura de São Roque;5
+410305 Boa Vista da Aparecida;19
+410310 Bocaiúva do Sul;8
+410315 Bom Jesus do Sul;6
+410320 Bom Sucesso;14
+410322 Bom Sucesso do Sul;8
+410330 Borrazópolis;13
+410335 Braganey;10
+410337 Brasilândia do Sul;6
+410340 Cafeara;2
+410345 Cafelândia;28
+410347 Cafezal do Sul;8
+410350 Califórnia;13
+410360 Cambará;36
+410370 Cambé;111
+410380 Cambira;10
+410390 Campina da Lagoa;28
+410395 Campina do Simão;5
+410400 Campina Grande do Sul;47
+410405 Campo Bonito;8
+410410 Campo do Tenente;11
+410420 Campo Largo;153
+410425 Campo Magro;17
+410430 Campo Mourão;344
+410440 Cândido de Abreu;22
+410442 Candói;24
+410445 Cantagalo;12
+410450 Capanema;36
+410460 Capitão Leônidas Marques;32
+410465 Carambeí;32
+410470 Carlópolis;16
+410480 Cascavel;719
+410490 Castro;133
+410500 Catanduvas;14
+410510 Centenário do Sul;22
+410520 Cerro Azul;23
+410530 Céu Azul;18
+410540 Chopinzinho;57
+410550 Cianorte;213
+410560 Cidade Gaúcha;20
+410570 Clevelândia;21
+410580 Colombo;103
+410590 Colorado;64
+410600 Congonhinhas;12
+410610 Conselheiro Mairinck;7
+410620 Contenda;16
+410630 Corbélia;21
+410640 Cornélio Procópio;184
+410645 Coronel Domingos Soares;13
+410650 Coronel Vivida;64
+410655 Corumbataí do Sul;3
+410680 Cruz Machado;17
+410657 Cruzeiro do Iguaçu;8
+410660 Cruzeiro do Oeste;40
+410670 Cruzeiro do Sul;8
+410685 Cruzmaltina;5
+410690 Curitiba;6240
+410700 Curiúva;19
+410715 Diamante D'Oeste;8
+410710 Diamante do Norte;9
+410712 Diamante do Sul;4
+410720 Dois Vizinhos;139
+410725 Douradina;18
+410730 Doutor Camargo;10
+412863 Doutor Ulysses;10
+410740 Enéas Marques;13
+410750 Engenheiro Beltrão;15
+410753 Entre Rios do Oeste;9
+410752 Esperança Nova;3
+410754 Espigão Alto do Iguaçu;7
+410755 Farol;3
+410760 Faxinal;31
+410765 Fazenda Rio Grande;63
+410770 Fênix;6
+410773 Fernandes Pinheiro;13
+410775 Figueira;15
+410785 Flor da Serra do Sul;9
+410780 Floraí;12
+410790 Floresta;11
+410800 Florestópolis;18
+410810 Flórida;3
+410820 Formosa do Oeste;12
+410830 Foz do Iguaçu;416
+410845 Foz do Jordão;12
+410832 Francisco Alves;12
+410840 Francisco Beltrão;417
+410850 General Carneiro;15
+410855 Godoy Moreira;6
+410860 Goioerê;67
+410865 Goioxim;9
+410870 Grandes Rios;13
+410880 Guaíra;83
+410890 Guairaçá;8
+410895 Guamiranga;14
+410900 Guapirama;5
+410910 Guaporema;3
+410920 Guaraci;9
+410930 Guaraniaçu;23
+410940 Guarapuava;461
+410950 Guaraqueçaba;6
+410960 Guaratuba;55
+410965 Honório Serpa;8
+410970 Ibaiti;57
+410975 Ibema;6
+410980 Ibiporã;69
+410990 Icaraíma;15
+411000 Iguaraçu;5
+411005 Iguatu;6
+411007 Imbaú;2
+411010 Imbituva;54
+411020 Inácio Martins;25
+411030 Inajá;3
+411040 Indianópolis;9
+411050 Ipiranga;19
+411060 Iporã;27
+411065 Iracema do Oeste;3
+411070 Irati;193
+411080 Iretama;8
+411090 Itaguajé;7
+411095 Itaipulândia;20
+411100 Itambaracá;4
+411110 Itambé;9
+411120 Itapejara d'Oeste;24
+411125 Itaperuçu;21
+411130 Itaúna do Sul;9
+411140 Ivaí;12
+411150 Ivaiporã;115
+411155 Ivaté;14
+411160 Ivatuba;7
+411170 Jaboti;11
+411180 Jacarezinho;109
+411190 Jaguapitã;21
+411200 Jaguariaíva;66
+411210 Jandaia do Sul;61
+411220 Janiópolis;9
+411230 Japira;6
+411240 Japurá;9
+411250 Jardim Alegre;17
+411260 Jardim Olinda;1
+411270 Jataizinho;8
+411275 Jesuítas;8
+411280 Joaquim Távora;24
+411290 Jundiaí do Sul;8
+411295 Juranda;12
+411300 Jussara;8
+411310 Kaloré;6
+411320 Lapa;76
+411325 Laranjal;3
+411330 Laranjeiras do Sul;87
+411340 Leópolis;7
+411342 Lidianópolis;6
+411345 Lindoeste;6
+411350 Loanda;55
+411360 Lobato;10
+411370 Londrina;1511
+411373 Luiziana;9
+411375 Lunardelli;6
+411380 Lupionópolis;8
+411390 Mallet;24
+411400 Mamborê;34
+411410 Mandaguaçu;29
+411420 Mandaguari;81
+411430 Mandirituba;24
+411435 Manfrinópolis;5
+411440 Mangueirinha;26
+411450 Manoel Ribas;19
+411460 Marechal Cândido Rondon;191
+411470 Maria Helena;9
+411480 Marialva;57
+411490 Marilândia do Sul;10
+411500 Marilena;7
+411510 Mariluz;10
+411520 Maringá;1598
+411530 Mariópolis;12
+411535 Maripá;8
+411540 Marmeleiro;29
+411545 Marquinho;5
+411550 Marumbi;15
+411560 Matelândia;32
+411570 Matinhos;46
+411573 Mato Rico;8
+411575 Mauá da Serra;15
+411580 Medianeira;136
+411585 Mercedes;16
+411590 Mirador;4
+411600 Miraselva;4
+411605 Missal;28
+411610 Moreira Sales;20
+411620 Morretes;27
+411630 Munhoz de Melo;9
+411640 Nossa Senhora das Graças;5
+411650 Nova Aliança do Ivaí;2
+411660 Nova América da Colina;2
+411670 Nova Aurora;28
+411680 Nova Cantu;10
+411690 Nova Esperança;52
+411695 Nova Esperança do Sudoeste;8
+411700 Nova Fátima;10
+411705 Nova Laranjeiras;15
+411710 Nova Londrina;18
+411720 Nova Olímpia;7
+411725 Nova Prata do Iguaçu;24
+411721 Nova Santa Bárbara;5
+411722 Nova Santa Rosa;18
+411727 Nova Tebas;13
+411729 Novo Itacolomi;6
+411730 Ortigueira;32
+411740 Ourizona;4
+411745 Ouro Verde do Oeste;3
+411750 Paiçandu;30
+411760 Palmas;131
+411770 Palmeira;68
+411780 Palmital;10
+411790 Palotina;81
+411800 Paraíso do Norte;15
+411810 Paranacity;21
+411820 Paranaguá;228
+411830 Paranapoema;4
+411840 Paranavaí;245
+411845 Pato Bragado;10
+411850 Pato Branco;482
+411860 Paula Freitas;10
+411870 Paulo Frontin;17
+411880 Peabiru;15
+411885 Perobal;8
+411890 Pérola;16
+411900 Pérola d'Oeste;14
+411910 Piên;26
+411915 Pinhais;128
+411925 Pinhal de São Bento;5
+411920 Pinhalão;13
+411930 Pinhão;37
+411940 Piraí do Sul;38
+411950 Piraquara;66
+411960 Pitanga;79
+411965 Pitangueiras;3
+411970 Planaltina do Paraná;5
+411980 Planalto;21
+411990 Ponta Grossa;952
+411995 Pontal do Paraná;33
+412000 Porecatu;26
+412010 Porto Amazonas;6
+412015 Porto Barreiro;4
+412020 Porto Rico;4
+412030 Porto Vitória;8
+412033 Prado Ferreira;8
+412035 Pranchita;16
+412040 Presidente Castelo Branco;7
+412050 Primeiro de Maio;18
+412060 Prudentópolis;89
+412065 Quarto Centenário;5
+412070 Quatiguá;18
+412080 Quatro Barras;27
+412085 Quatro Pontes;11
+412090 Quedas do Iguaçu;58
+412100 Querência do Norte;12
+412110 Quinta do Sol;4
+412120 Quitandinha;16
+412125 Ramilândia;5
+412130 Rancho Alegre;5
+412135 Rancho Alegre D'Oeste;4
+412140 Realeza;57
+412150 Rebouças;29
+412160 Renascença;14
+412170 Reserva;35
+412175 Reserva do Iguaçu;8
+412180 Ribeirão Claro;24
+412190 Ribeirão do Pinhal;27
+412200 Rio Azul;28
+412210 Rio Bom;8
+412215 Rio Bonito do Iguaçu;13
+412217 Rio Branco do Ivaí;9
+412220 Rio Branco do Sul;21
+412230 Rio Negro;73
+412240 Rolândia;116
+412250 Roncador;22
+412260 Rondon;24
+412265 Rosário do Ivaí;11
+412270 Sabáudia;12
+412280 Salgado Filho;8
+412290 Salto do Itararé;9
+412300 Salto do Lontra;22
+412310 Santa Amélia;6
+412320 Santa Cecília do Pavão;6
+412330 Santa Cruz de Monte Castelo;14
+412340 Santa Fé;15
+412350 Santa Helena;53
+412360 Santa Inês;3
+412370 Santa Isabel do Ivaí;14
+412380 Santa Izabel do Oeste;24
+412382 Santa Lúcia;4
+412385 Santa Maria do Oeste;13
+412390 Santa Mariana;18
+412395 Santa Mônica;6
+412402 Santa Tereza do Oeste;12
+412405 Santa Terezinha de Itaipu;34
+412400 Santana do Itararé;6
+412410 Santo Antônio da Platina;152
+412420 Santo Antônio do Caiuá;5
+412430 Santo Antônio do Paraíso;3
+412440 Santo Antônio do Sudoeste;35
+412450 Santo Inácio;9
+412460 São Carlos do Ivaí;6
+412470 São Jerônimo da Serra;6
+412480 São João;33
+412490 São João do Caiuá;5
+412500 São João do Ivaí;20
+412510 São João do Triunfo;21
+412520 São Jorge d'Oeste;14
+412530 São Jorge do Ivaí;8
+412535 São Jorge do Patrocínio;17
+412540 São José da Boa Vista;8
+412545 São José das Palmeiras;7
+412550 São José dos Pinhais;461
+412555 São Manoel do Paraná;3
+412560 São Mateus do Sul;98
+412570 São Miguel do Iguaçu;52
+412575 São Pedro do Iguaçu;11
+412580 São Pedro do Ivaí;21
+412590 São Pedro do Paraná;5
+412600 São Sebastião da Amoreira;11
+412610 São Tomé;9
+412620 Sapopema;13
+412625 Sarandi;85
+412627 Saudade do Iguaçu;6
+412630 Sengés;18
+412635 Serranópolis do Iguaçu;5
+412640 Sertaneja;12
+412650 Sertanópolis;28
+412660 Siqueira Campos;44
+412665 Sulina;4
+412667 Tamarana;17
+412670 Tamboara;7
+412680 Tapejara;26
+412690 Tapira;10
+412700 Teixeira Soares;18
+412710 Telêmaco Borba;171
+412720 Terra Boa;27
+412730 Terra Rica;22
+412740 Terra Roxa;32
+412750 Tibagi;16
+412760 Tijucas do Sul;25
+412770 Toledo;568
+412780 Tomazina;14
+412785 Três Barras do Paraná;18
+412788 Tunas do Paraná;5
+412790 Tuneiras do Oeste;15
+412795 Tupãssi;17
+412796 Turvo;13
+412800 Ubiratã;60
+412810 Umuarama;548
+412820 União da Vitória;197
+412830 Uniflor;3
+412840 Uraí;13
+412853 Ventania;9
+412855 Vera Cruz do Oeste;19
+412860 Verê;19
+412865 Virmond;6
+412870 Vitorino;9
+412850 Wenceslau Braz;27
+412880 Xambrê;7
+420005 Abdon Batista;5
+420010 Abelardo Luz;40
+420020 Agrolândia;17
+420030 Agronômica;6
+420040 Água Doce;17
+420050 Águas de Chapecó;9
+420055 Águas Frias;6
+420060 Águas Mornas;7
+420070 Alfredo Wagner;15
+420075 Alto Bela Vista;7
+420080 Anchieta;12
+420090 Angelina;9
+420100 Anita Garibaldi;15
+420110 Anitápolis;5
+420120 Antônio Carlos;13
+420125 Apiúna;17
+420127 Arabutã;8
+420130 Araquari;27
+420140 Araranguá;221
+420150 Armazém;11
+420160 Arroio Trinta;14
+420165 Arvoredo;3
+420170 Ascurra;18
+420180 Atalanta;3
+420190 Aurora;5
+420195 Balneário Arroio do Silva;11
+420205 Balneário Barra do Sul;10
+420200 Balneário Camboriú;575
+420207 Balneário Gaivota;13
+421280 Balneário Piçarras;49
+422000 Balneário Rincão;17
+420208 Bandeirante;5
+420209 Barra Bonita;4
+420210 Barra Velha;48
+420213 Bela Vista do Toldo;12
+420215 Belmonte;6
+420220 Benedito Novo;21
+420230 Biguaçu;86
+420240 Blumenau;1094
+420243 Bocaina do Sul;13
+420250 Bom Jardim da Serra;6
+420253 Bom Jesus;5
+420257 Bom Jesus do Oeste;3
+420260 Bom Retiro;19
+420245 Bombinhas;21
+420270 Botuverá;9
+420280 Braço do Norte;82
+420285 Braço do Trombudo;9
+420287 Brunópolis;5
+420290 Brusque;288
+420300 Caçador;171
+420310 Caibi;16
+420315 Calmon;5
+420320 Camboriú;62
+420330 Campo Alegre;15
+420340 Campo Belo do Sul;14
+420350 Campo Erê;23
+420360 Campos Novos;109
+420370 Canelinha;20
+420380 Canoinhas;165
+420325 Capão Alto;5
+420390 Capinzal;73
+420395 Capivari de Baixo;32
+420400 Catanduvas;22
+420410 Caxambu do Sul;14
+420415 Celso Ramos;6
+420417 Cerro Negro;1
+420419 Chapadão do Lageado;6
+420420 Chapecó;786
+420425 Cocal do Sul;31
+420430 Concórdia;262
+420435 Cordilheira Alta;4
+420440 Coronel Freitas;26
+420445 Coronel Martins;7
+420455 Correia Pinto;22
+420450 Corupá;35
+420460 Criciúma;645
+420470 Cunha Porã;31
+420475 Cunhataí;5
+420480 Curitibanos;138
+420490 Descanso;20
+420500 Dionísio Cerqueira;32
+420510 Dona Emma;9
+420515 Doutor Pedrinho;4
+420517 Entre Rios;5
+420519 Ermo;7
+420520 Erval Velho;8
+420530 Faxinal dos Guedes;29
+420535 Flor do Sertão;4
+420540 Florianópolis;1445
+420543 Formosa do Sul;7
+420545 Forquilhinha;32
+420550 Fraiburgo;138
+420555 Frei Rogério;2
+420560 Galvão;7
+420570 Garopaba;44
+420580 Garuva;29
+420590 Gaspar;126
+420600 Governador Celso Ramos;14
+420610 Grão Pará;12
+420620 Gravatal;19
+420630 Guabiruba;33
+420640 Guaraciaba;25
+420650 Guaramirim;78
+420660 Guarujá do Sul;11
+420665 Guatambú;4
+420670 Herval d'Oeste;23
+420675 Ibiam;6
+420680 Ibicaré;6
+420690 Ibirama;47
+420700 Içara;94
+420710 Ilhota;13
+420720 Imaruí;16
+420730 Imbituba;113
+420740 Imbuia;7
+420750 Indaial;139
+420757 Iomerê;7
+420760 Ipira;14
+420765 Iporã do Oeste;25
+420768 Ipuaçu;9
+420770 Ipumirim;13
+420775 Iraceminha;10
+420780 Irani;21
+420785 Irati;4
+420790 Irineópolis;17
+420800 Itá;31
+420810 Itaiópolis;35
+420820 Itajaí;897
+420830 Itapema;215
+420840 Itapiranga;33
+420845 Itapoá;27
+420850 Ituporanga;60
+420860 Jaborá;11
+420870 Jacinto Machado;20
+420880 Jaguaruna;43
+420890 Jaraguá do Sul;617
+420895 Jardinópolis;6
+420900 Joaçaba;328
+420910 Joinville;1450
+420915 José Boiteux;9
+420917 Jupiá;4
+420920 Lacerdópolis;5
+420930 Lages;774
+420940 Laguna;84
+420945 Lajeado Grande;4
+420950 Laurentino;12
+420960 Lauro Muller;32
+420970 Lebon Régis;12
+420980 Leoberto Leal;4
+420985 Lindóia do Sul;6
+420990 Lontras;12
+421000 Luiz Alves;29
+421003 Luzerna;7
+421005 Macieira;5
+421010 Mafra;146
+421020 Major Gercino;9
+421030 Major Vieira;8
+421040 Maracajá;9
+421050 Maravilha;95
+421055 Marema;3
+421060 Massaranduba;38
+421070 Matos Costa;7
+421080 Meleiro;16
+421085 Mirim Doce;5
+421090 Modelo;10
+421100 Mondaí;26
+421105 Monte Carlo;20
+421110 Monte Castelo;15
+421120 Morro da Fumaça;23
+421125 Morro Grande;6
+421130 Navegantes;107
+421140 Nova Erechim;14
+421145 Nova Itaberaba;9
+421150 Nova Trento;22
+421160 Nova Veneza;34
+421165 Novo Horizonte;3
+421170 Orleans;59
+421175 Otacílio Costa;35
+421180 Ouro;15
+421185 Ouro Verde;4
+421187 Paial;4
+421189 Painel;5
+421190 Palhoça;160
+421200 Palma Sola;13
+421205 Palmeira;6
+421210 Palmitos;45
+421220 Papanduva;28
+421223 Paraíso;8
+421225 Passo de Torres;8
+421227 Passos Maia;12
+421230 Paulo Lopes;8
+421240 Pedras Grandes;9
+421250 Penha;42
+421260 Peritiba;7
+421265 Pescaria Brava;10
+421270 Petrolândia;9
+421290 Pinhalzinho;107
+421300 Pinheiro Preto;5
+421310 Piratuba;10
+421315 Planalto Alegre;9
+421320 Pomerode;97
+421330 Ponte Alta;9
+421335 Ponte Alta do Norte;8
+421340 Ponte Serrada;25
+421350 Porto Belo;33
+421360 Porto União;135
+421370 Pouso Redondo;30
+421380 Praia Grande;24
+421390 Presidente Castello Branco;5
+421400 Presidente Getúlio;27
+421410 Presidente Nereu;3
+421415 Princesa;4
+421420 Quilombo;30
+421430 Rancho Queimado;5
+421440 Rio das Antas;11
+421450 Rio do Campo;14
+421460 Rio do Oeste;17
+421480 Rio do Sul;337
+421470 Rio dos Cedros;22
+421490 Rio Fortuna;8
+421500 Rio Negrinho;73
+421505 Rio Rufino;6
+421507 Riqueza;10
+421510 Rodeio;27
+421520 Romelândia;11
+421530 Salete;16
+421535 Saltinho;2
+421540 Salto Veloso;11
+421545 Sangão;10
+421550 Santa Cecília;34
+421555 Santa Helena;4
+421560 Santa Rosa de Lima;3
+421565 Santa Rosa do Sul;13
+421567 Santa Terezinha;6
+421568 Santa Terezinha do Progresso;3
+421569 Santiago do Sul;5
+421570 Santo Amaro da Imperatriz;38
+421580 São Bento do Sul;209
+421575 São Bernardino;3
+421590 São Bonifácio;9
+421600 São Carlos;30
+421605 São Cristovão do Sul;4
+421610 São Domingos;35
+421620 São Francisco do Sul;105
+421630 São João Batista;45
+421635 São João do Itaperiú;8
+421625 São João do Oeste;12
+421640 São João do Sul;12
+421650 São Joaquim;47
+421660 São José;304
+421670 São José do Cedro;31
+421680 São José do Cerrito;6
+421690 São Lourenço do Oeste;100
+421700 São Ludgero;16
+421710 São Martinho;9
+421715 São Miguel da Boa Vista;4
+421720 São Miguel do Oeste;221
+421725 São Pedro de Alcântara;8
+421730 Saudades;23
+421740 Schroeder;21
+421750 Seara;49
+421755 Serra Alta;10
+421760 Siderópolis;18
+421770 Sombrio;59
+421775 Sul Brasil;3
+421780 Taió;49
+421790 Tangará;15
+421795 Tigrinhos;4
+421800 Tijucas;65
+421810 Timbé do Sul;13
+421820 Timbó;136
+421825 Timbó Grande;7
+421830 Três Barras;26
+421835 Treviso;9
+421840 Treze de Maio;12
+421850 Treze Tílias;15
+421860 Trombudo Central;22
+421870 Tubarão;388
+421875 Tunápolis;14
+421880 Turvo;36
+421885 União do Oeste;4
+421890 Urubici;20
+421895 Urupema;4
+421900 Urussanga;49
+421910 Vargeão;10
+421915 Vargem;6
+421917 Vargem Bonita;8
+421920 Vidal Ramos;11
+421930 Videira;222
+421935 Vitor Meireles;9
+421940 Witmarsum;9
+421950 Xanxerê;223
+421960 Xavantina;6
+421970 Xaxim;81
+421985 Zortéa;6
+430003 Aceguá;6
+430005 Água Santa;6
+430010 Agudo;24
+430020 Ajuricaba;15
+430030 Alecrim;12
+430040 Alegrete;172
+430045 Alegria;9
+430047 Almirante Tamandaré do Sul;6
+430050 Alpestre;12
+430055 Alto Alegre;5
+430057 Alto Feliz;4
+430060 Alvorada;90
+430063 Amaral Ferrador;6
+430064 Ametista do Sul;10
+430066 André da Rocha;4
+430070 Anta Gorda;19
+430080 Antônio Prado;54
+430085 Arambaré;10
+430087 Araricá;5
+430090 Aratiba;8
+430100 Arroio do Meio;53
+430107 Arroio do Padre;4
+430105 Arroio do Sal;12
+430120 Arroio do Tigre;28
+430110 Arroio dos Ratos;20
+430130 Arroio Grande;25
+430140 Arvorezinha;14
+430150 Augusto Pestana;14
+430155 Áurea;4
+430160 Bagé;238
+430163 Balneário Pinhal;11
+430165 Barão;10
+430170 Barão de Cotegipe;12
+430175 Barão do Triunfo;6
+430185 Barra do Guarita;4
+430187 Barra do Quaraí;6
+430190 Barra do Ribeiro;18
+430192 Barra do Rio Azul;3
+430195 Barra Funda;3
+430180 Barracão;9
+430200 Barros Cassal;20
+430205 Benjamin Constant do Sul;6
+430210 Bento Gonçalves;328
+430215 Boa Vista das Missões;5
+430220 Boa Vista do Buricá;21
+430222 Boa Vista do Cadeado;4
+430223 Boa Vista do Incra;2
+430225 Boa Vista do Sul;5
+430230 Bom Jesus;27
+430235 Bom Princípio;30
+430237 Bom Progresso;3
+430240 Bom Retiro do Sul;24
+430245 Boqueirão do Leão;15
+430250 Bossoroca;17
+430258 Bozano;4
+430260 Braga;7
+430265 Brochier;13
+430270 Butiá;38
+430280 Caçapava do Sul;36
+430290 Cacequi;26
+430300 Cachoeira do Sul;196
+430310 Cachoeirinha;171
+430320 Cacique Doble;10
+430330 Caibaté;14
+430340 Caiçara;14
+430350 Camaquã;253
+430355 Camargo;8
+430360 Cambará do Sul;12
+430367 Campestre da Serra;4
+430370 Campina das Missões;8
+430380 Campinas do Sul;9
+430390 Campo Bom;111
+430400 Campo Novo;5
+430410 Campos Borges;9
+430420 Candelária;43
+430430 Cândido Godói;16
+430435 Candiota;18
+430440 Canela;84
+430450 Canguçu;64
+430460 Canoas;607
+430461 Canudos do Vale;5
+430462 Capão Bonito do Sul;4
+430463 Capão da Canoa;99
+430465 Capão do Cipó;5
+430466 Capão do Leão;15
+430468 Capela de Santana;10
+430469 Capitão;4
+430467 Capivari do Sul;5
+430471 Caraá;6
+430470 Carazinho;239
+430480 Carlos Barbosa;76
+430485 Carlos Gomes;3
+430490 Casca;35
+430495 Caseiros;6
+430500 Catuípe;9
+430510 Caxias do Sul;1295
+430511 Centenário;4
+430512 Cerrito;6
+430513 Cerro Branco;8
+430515 Cerro Grande;4
+430517 Cerro Grande do Sul;11
+430520 Cerro Largo;48
+430530 Chapada;18
+430535 Charqueadas;76
+430537 Charrua;3
+430540 Chiapetta;8
+430543 Chuí;7
+430544 Chuvisca;10
+430545 Cidreira;13
+430550 Ciríaco;10
+430558 Colinas;5
+430560 Colorado;5
+430570 Condor;8
+430580 Constantina;16
+430583 Coqueiro Baixo;3
+430585 Coqueiros do Sul;6
+430587 Coronel Barros;6
+430590 Coronel Bicaco;14
+430593 Coronel Pilar;2
+430595 Cotiporã;8
+430597 Coxilha;2
+430600 Crissiumal;26
+430605 Cristal;14
+430607 Cristal do Sul;6
+430610 Cruz Alta;193
+430613 Cruzaltense;3
+430620 Cruzeiro do Sul;15
+430630 David Canabarro;8
+430632 Derrubadas;5
+430635 Dezesseis de Novembro;5
+430637 Dilermando de Aguiar;4
+430640 Dois Irmãos;112
+430642 Dois Irmãos das Missões;4
+430645 Dois Lajeados;13
+430650 Dom Feliciano;17
+430660 Dom Pedrito;90
+430655 Dom Pedro de Alcântara;2
+430670 Dona Francisca;5
+430673 Doutor Maurício Cardoso;9
+430675 Doutor Ricardo;5
+430676 Eldorado do Sul;24
+430680 Encantado;123
+430690 Encruzilhada do Sul;41
+430692 Engenho Velho;4
+430695 Entre Rios do Sul;5
+430693 Entre-Ijuís;13
+430697 Erebango;3
+430700 Erechim;409
+430705 Ernestina;4
+430720 Erval Grande;5
+430730 Erval Seco;9
+430740 Esmeralda;4
+430745 Esperança do Sul;4
+430750 Espumoso;34
+430755 Estação;16
+430760 Estância Velha;68
+430770 Esteio;181
+430780 Estrela;108
+430781 Estrela Velha;9
+430783 Eugênio de Castro;4
+430786 Fagundes Varela;3
+430790 Farroupilha;158
+430800 Faxinal do Soturno;21
+430805 Faxinalzinho;3
+430807 Fazenda Vilanova;5
+430810 Feliz;18
+430820 Flores da Cunha;150
+430825 Floriano Peixoto;4
+430830 Fontoura Xavier;13
+430840 Formigueiro;10
+430843 Forquetinha;2
+430845 Fortaleza dos Valos;11
+430850 Frederico Westphalen;140
+430860 Garibaldi;107
+430865 Garruchos;8
+430870 Gaurama;17
+430880 General Câmara;11
+430885 Gentil;4
+430890 Getúlio Vargas;42
+430900 Giruá;46
+430905 Glorinha;6
+430910 Gramado;192
+430912 Gramado dos Loureiros;5
+430915 Gramado Xavier;3
+430920 Gravataí;334
+430925 Guabiju;5
+430930 Guaíba;120
+430940 Guaporé;107
+430950 Guarani das Missões;22
+430955 Harmonia;11
+430710 Herval;16
+430957 Herveiras;3
+430960 Horizontina;59
+430965 Hulha Negra;4
+430970 Humaitá;12
+430975 Ibarama;6
+430980 Ibiaçá;11
+430990 Ibiraiaras;11
+430995 Ibirapuitã;6
+431000 Ibirubá;98
+431010 Igrejinha;67
+431020 Ijuí;306
+431030 Ilópolis;13
+431033 Imbé;20
+431036 Imigrante;8
+431040 Independência;16
+431041 Inhacorá;4
+431043 Ipê;10
+431046 Ipiranga do Sul;2
+431050 Iraí;14
+431053 Itaara;6
+431055 Itacurubi;2
+431057 Itapuca;4
+431060 Itaqui;62
+431065 Itati;5
+431070 Itatiba do Sul;9
+431075 Ivorá;6
+431080 Ivoti;40
+431085 Jaboticaba;10
+431087 Jacuizinho;2
+431090 Jacutinga;4
+431100 Jaguarão;48
+431110 Jaguari;25
+431112 Jaquirana;7
+431113 Jari;4
+431115 Jóia;11
+431120 Júlio de Castilhos;44
+431123 Lagoa Bonita do Sul;2
+431127 Lagoa dos Três Cantos;4
+431130 Lagoa Vermelha;66
+431125 Lagoão;5
+431140 Lajeado;402
+431142 Lajeado do Bugre;4
+431150 Lavras do Sul;16
+431160 Liberato Salzano;9
+431162 Lindolfo Collor;5
+431164 Linha Nova;3
+431171 Maçambará;6
+431170 Machadinho;12
+431173 Mampituba;5
+431175 Manoel Viana;14
+431177 Maquiné;6
+431179 Maratá;8
+431180 Marau;158
+431190 Marcelino Ramos;13
+431198 Mariana Pimentel;4
+431200 Mariano Moro;2
+431205 Marques de Souza;11
+431210 Mata;9
+431213 Mato Castelhano;2
+431215 Mato Leitão;4
+431217 Mato Queimado;5
+431220 Maximiliano de Almeida;11
+431225 Minas do Leão;7
+431230 Miraguaí;5
+431235 Montauri;5
+431237 Monte Alegre dos Campos;4
+431238 Monte Belo do Sul;6
+431240 Montenegro;227
+431242 Mormaço;8
+431244 Morrinhos do Sul;6
+431245 Morro Redondo;8
+431247 Morro Reuter;5
+431250 Mostardas;18
+431260 Muçum;16
+431261 Muitos Capões;3
+431262 Muliterno;6
+431265 Não-Me-Toque;54
+431267 Nicolau Vergueiro;4
+431270 Nonoai;19
+431275 Nova Alvorada;4
+431280 Nova Araçá;12
+431290 Nova Bassano;30
+431295 Nova Boa Vista;5
+431300 Nova Bréscia;12
+431301 Nova Candelária;6
+431303 Nova Esperança do Sul;7
+431306 Nova Hartz;16
+431308 Nova Pádua;2
+431310 Nova Palma;16
+431320 Nova Petrópolis;77
+431330 Nova Prata;139
+431333 Nova Ramada;5
+431335 Nova Roma do Sul;4
+431337 Nova Santa Rita;29
+431349 Novo Barreiro;4
+431339 Novo Cabrais;9
+431340 Novo Hamburgo;457
+431342 Novo Machado;9
+431344 Novo Tiradentes;4
+431346 Novo Xingu;4
+431350 Osório;122
+431360 Paim Filho;8
+431365 Palmares do Sul;14
+431370 Palmeira das Missões;92
+431380 Palmitinho;27
+431390 Panambi;110
+431395 Pantano Grande;14
+431400 Paraí;29
+431402 Paraíso do Sul;11
+431403 Pareci Novo;8
+431405 Parobé;37
+431406 Passa Sete;5
+431407 Passo do Sobrado;5
+431410 Passo Fundo;949
+431413 Paulo Bento;4
+431415 Paverama;8
+431417 Pedras Altas;3
+431420 Pedro Osório;9
+431430 Pejuçara;9
+431440 Pelotas;878
+431442 Picada Café;5
+431445 Pinhal;3
+431446 Pinhal da Serra;3
+431447 Pinhal Grande;9
+431449 Pinheirinho do Vale;7
+431450 Pinheiro Machado;18
+431454 Pinto Bandeira;4
+431455 Pirapó;7
+431460 Piratini;14
+431470 Planalto;13
+431475 Poço das Antas;4
+431477 Pontão;5
+431478 Ponte Preta;3
+431480 Portão;58
+431490 Porto Alegre;4718
+431500 Porto Lucena;10
+431505 Porto Mauá;6
+431507 Porto Vera Cruz;3
+431510 Porto Xavier;29
+431513 Pouso Novo;3
+431514 Presidente Lucena;5
+431515 Progresso;14
+431517 Protásio Alves;3
+431520 Putinga;3
+431530 Quaraí;51
+431531 Quatro Irmãos;2
+431532 Quevedos;6
+431535 Quinze de Novembro;11
+431540 Redentora;19
+431545 Relvado;6
+431550 Restinga Seca;22
+431555 Rio dos Índios;3
+431560 Rio Grande;443
+431570 Rio Pardo;71
+431575 Riozinho;9
+431580 Roca Sales;10
+431590 Rodeio Bonito;25
+431595 Rolador;9
+431600 Rolante;26
+431610 Ronda Alta;19
+431620 Rondinha;9
+431630 Roque Gonzales;19
+431640 Rosário do Sul;84
+431642 Sagrada Família;6
+431643 Saldanha Marinho;5
+431645 Salto do Jacuí;26
+431647 Salvador das Missões;9
+431650 Salvador do Sul;16
+431660 Sananduva;47
+431710 Sant'Ana do Livramento;182
+431670 Santa Bárbara do Sul;17
+431673 Santa Cecília do Sul;2
+431675 Santa Clara do Sul;11
+431680 Santa Cruz do Sul;679
+431697 Santa Margarida do Sul;3
+431690 Santa Maria;878
+431695 Santa Maria do Herval;9
+431720 Santa Rosa;212
+431725 Santa Tereza;2
+431730 Santa Vitória do Palmar;59
+431700 Santana da Boa Vista;8
+431740 Santiago;175
+431750 Santo Ângelo;502
+431760 Santo Antônio da Patrulha;62
+431770 Santo Antônio das Missões;23
+431755 Santo Antônio do Palma;2
+431775 Santo Antônio do Planalto;3
+431780 Santo Augusto;32
+431790 Santo Cristo;31
+431795 Santo Expedito do Sul;3
+431800 São Borja;154
+431805 São Domingos do Sul;4
+431810 São Francisco de Assis;29
+431820 São Francisco de Paula;30
+431830 São Gabriel;87
+431840 São Jerônimo;54
+431842 São João da Urtiga;5
+431843 São João do Polêsine;7
+431844 São Jorge;8
+431845 São José das Missões;5
+431846 São José do Herval;7
+431848 São José do Hortêncio;5
+431849 São José do Inhacorá;7
+431850 São José do Norte;23
+431860 São José do Ouro;19
+431861 São José do Sul;7
+431862 São José dos Ausentes;13
+431870 São Leopoldo;326
+431880 São Lourenço do Sul;66
+431890 São Luiz Gonzaga;114
+431900 São Marcos;70
+431910 São Martinho;12
+431912 São Martinho da Serra;4
+431915 São Miguel das Missões;26
+431920 São Nicolau;8
+431930 São Paulo das Missões;13
+431935 São Pedro da Serra;7
+431936 São Pedro das Missões;4
+431937 São Pedro do Butiá;6
+431940 São Pedro do Sul;28
+431950 São Sebastião do Caí;42
+431960 São Sepé;31
+431970 São Valentim;6
+431971 São Valentim do Sul;4
+431975 São Vendelino;3
+431980 São Vicente do Sul;22
+431990 Sapiranga;82
+432000 Sapucaia do Sul;206
+432010 Sarandi;49
+432020 Seberi;22
+432023 Sede Nova;4
+432026 Segredo;14
+432030 Selbach;11
+432032 Senador Salgado Filho;4
+432035 Sentinela do Sul;4
+432040 Serafina Corrêa;88
+432045 Sério;4
+432050 Sertão;10
+432055 Sertão Santana;14
+432057 Sete de Setembro;3
+432060 Severiano de Almeida;8
+432065 Silveira Martins;5
+432067 Sinimbu;17
+432070 Sobradinho;48
+432080 Soledade;114
+432085 Tabaí;9
+432090 Tapejara;99
+432100 Tapera;28
+432110 Tapes;27
+432120 Taquara;111
+432130 Taquari;60
+432132 Taquaruçu do Sul;5
+432135 Tavares;5
+432140 Tenente Portela;43
+432143 Terra de Areia;20
+432145 Teutônia;93
+432146 Tio Hugo;3
+432147 Tiradentes do Sul;7
+432149 Toropi;3
+432150 Torres;113
+432160 Tramandaí;74
+432162 Travesseiro;4
+432163 Três Arroios;5
+432166 Três Cachoeiras;18
+432170 Três Coroas;43
+432180 Três de Maio;103
+432183 Três Forquilhas;5
+432185 Três Palmeiras;7
+432190 Três Passos;118
+432195 Trindade do Sul;10
+432200 Triunfo;50
+432210 Tucunduva;19
+432215 Tunas;4
+432218 Tupanci do Sul;4
+432220 Tupanciretã;39
+432225 Tupandi;14
+432230 Tuparendi;29
+432232 Turuçu;6
+432234 Ubiretama;2
+432235 União da Serra;3
+432237 Unistalda;3
+432240 Uruguaiana;295
+432250 Vacaria;130
+432253 Vale do Sol;15
+432254 Vale Real;16
+432252 Vale Verde;2
+432255 Vanini;4
+432260 Venâncio Aires;283
+432270 Vera Cruz;69
+432280 Veranópolis;164
+432285 Vespasiano Correa;4
+432290 Viadutos;11
+432300 Viamão;107
+432310 Vicente Dutra;6
+432320 Victor Graeff;6
+432330 Vila Flores;8
+432335 Vila Lângaro;4
+432340 Vila Maria;6
+432345 Vila Nova do Sul;6
+432350 Vista Alegre;6
+432360 Vista Alegre do Prata;3
+432370 Vista Gaúcha;4
+432375 Vitória das Missões;4
+432377 Westfalia;7
+432380 Xangri-lá;16
+500020 Água Clara;20
+500025 Alcinópolis;10
+500060 Amambai;62
+500070 Anastácio;23
+500080 Anaurilândia;16
+500085 Angélica;17
+500090 Antônio João;17
+500100 Aparecida do Taboado;55
+500110 Aquidauana;113
+500124 Aral Moreira;14
+500150 Bandeirantes;8
+500190 Bataguassu;57
+500200 Batayporã;14
+500210 Bela Vista;34
+500215 Bodoquena;15
+500220 Bonito;30
+500230 Brasilândia;28
+500240 Caarapó;51
+500260 Camapuã;38
+500270 Campo Grande;1148
+500280 Caracol;7
+500290 Cassilândia;73
+500295 Chapadão do Sul;67
+500310 Corguinho;7
+500315 Coronel Sapucaia;17
+500320 Corumbá;157
+500325 Costa Rica;49
+500330 Coxim;73
+500345 Deodápolis;37
+500348 Dois Irmãos do Buriti;18
+500350 Douradina;9
+500370 Dourados;694
+500375 Eldorado;15
+500380 Fátima do Sul;39
+500390 Figueirão;5
+500400 Glória de Dourados;38
+500410 Guia Lopes da Laguna;15
+500430 Iguatemi;17
+500440 Inocência;12
+500450 Itaporã;28
+500460 Itaquiraí;18
+500470 Ivinhema;79
+500480 Japorã;7
+500490 Jaraguari;5
+500500 Jardim;50
+500510 Jateí;12
+500515 Juti;13
+500520 Ladário;18
+500525 Laguna Carapã;14
+500540 Maracaju;52
+500560 Miranda;39
+500568 Mundo Novo;26
+500570 Naviraí;93
+500580 Nioaque;19
+500600 Nova Alvorada do Sul;30
+500620 Nova Andradina;149
+500625 Novo Horizonte do Sul;5
+500627 Paraíso das Águas;10
+500630 Paranaíba;131
+500635 Paranhos;21
+500640 Pedro Gomes;12
+500660 Ponta Porã;110
+500690 Porto Murtinho;13
+500710 Ribas do Rio Pardo;33
+500720 Rio Brilhante;90
+500730 Rio Negro;10
+500740 Rio Verde de Mato Grosso;30
+500750 Rochedo;6
+500755 Santa Rita do Pardo;8
+500769 São Gabriel do Oeste;58
+500780 Selvíria;13
+500770 Sete Quedas;12
+500790 Sidrolândia;53
+500793 Sonora;30
+500795 Tacuru;17
+500797 Taquarussu;9
+500800 Terenos;15
+500830 Três Lagoas;288
+500840 Vicentina;11
+510010 Acorizal;9
+510020 Água Boa;60
+510025 Alta Floresta;123
+510030 Alto Araguaia;35
+510035 Alto Boa Vista;8
+510040 Alto Garças;14
+510050 Alto Paraguai;11
+510060 Alto Taquari;16
+510080 Apiacás;12
+510100 Araguaiana;6
+510120 Araguainha;3
+510125 Araputanga;23
+510130 Arenápolis;19
+510140 Aripuanã;31
+510160 Barão de Melgaço;12
+510170 Barra do Bugres;47
+510180 Barra do Garças;181
+510185 Bom Jesus do Araguaia;10
+510190 Brasnorte;36
+510250 Cáceres;166
+510260 Campinápolis;10
+510263 Campo Novo do Parecis;52
+510267 Campo Verde;82
+510268 Campos de Júlio;29
+510269 Canabrava do Norte;10
+510270 Canarana;54
+510279 Carlinda;16
+510285 Castanheira;17
+510300 Chapada dos Guimarães;26
+510305 Cláudia;14
+510310 Cocalinho;12
+510320 Colíder;65
+510325 Colniza;19
+510330 Comodoro;35
+510335 Confresa;41
+510336 Conquista D'Oeste;10
+510337 Cotriguaçu;18
+510340 Cuiabá;1635
+510343 Curvelândia;7
+510345 Denise;15
+510350 Diamantino;42
+510360 Dom Aquino;10
+510370 Feliz Natal;21
+510380 Figueirópolis D'Oeste;8
+510385 Gaúcha do Norte;24
+510390 General Carneiro;10
+510395 Glória D'Oeste;6
+510410 Guarantã do Norte;40
+510420 Guiratinga;22
+510450 Indiavaí;6
+510452 Ipiranga do Norte;12
+510454 Itanhangá;11
+510455 Itaúba;8
+510460 Itiquira;29
+510480 Jaciara;53
+510490 Jangada;11
+510500 Jauru;16
+510510 Juara;70
+510515 Juína;65
+510517 Juruena;20
+510520 Juscimeira;18
+510523 Lambari D'Oeste;7
+510525 Lucas do Rio Verde;175
+510530 Luciara;5
+510558 Marcelândia;16
+510560 Matupá;25
+510562 Mirassol d'Oeste;61
+510590 Nobres;21
+510600 Nortelândia;11
+510610 Nossa Senhora do Livramento;11
+510615 Nova Bandeirantes;22
+510620 Nova Brasilândia;11
+510621 Nova Canaã do Norte;18
+510880 Nova Guarita;5
+510618 Nova Lacerda;13
+510885 Nova Marilândia;7
+510890 Nova Maringá;10
+510895 Nova Monte Verde;12
+510622 Nova Mutum;127
+510617 Nova Nazaré;9
+510623 Nova Olímpia;21
+510619 Nova Santa Helena;8
+510624 Nova Ubiratã;19
+510625 Nova Xavantina;17
+510627 Novo Horizonte do Norte;10
+510626 Novo Mundo;9
+510631 Novo Santo Antônio;4
+510628 Novo São Joaquim;11
+510629 Paranaíta;16
+510630 Paranatinga;24
+510637 Pedra Preta;15
+510642 Peixoto de Azevedo;30
+510645 Planalto da Serra;8
+510650 Poconé;29
+510665 Pontal do Araguaia;11
+510670 Ponte Branca;8
+510675 Pontes e Lacerda;71
+510677 Porto Alegre do Norte;12
+510680 Porto dos Gaúchos;12
+510682 Porto Esperidião;14
+510685 Porto Estrela;11
+510700 Poxoréo;18
+510704 Primavera do Leste;147
+510706 Querência;40
+510715 Reserva do Cabaçal;4
+510718 Ribeirão Cascalheira;20
+510719 Ribeirãozinho;7
+510720 Rio Branco;7
+510757 Rondolândia;9
+510760 Rondonópolis;654
+510770 Rosário Oeste;18
+510775 Salto do Céu;10
+510724 Santa Carmem;12
+510774 Santa Cruz do Xingu;6
+510776 Santa Rita do Trivelato;12
+510777 Santa Terezinha;8
+510726 Santo Afonso;5
+510779 Santo Antônio do Leste;7
+510780 Santo Antônio do Leverger;13
+510785 São Félix do Araguaia;20
+510729 São José do Povo;4
+510730 São José do Rio Claro;28
+510735 São José do Xingu;10
+510710 São José dos Quatro Marcos;24
+510740 São Pedro da Cipa;5
+510787 Sapezal;47
+510788 Serra Nova Dourada;4
+510790 Sinop;462
+510792 Sorriso;196
+510794 Tabaporã;17
+510795 Tangará da Serra;255
+510800 Tapurah;26
+510805 Terra Nova do Norte;15
+510810 Tesouro;6
+510820 Torixoréu;9
+510830 União do Sul;11
+510835 Vale de São Domingos;12
+510840 Várzea Grande;204
+510850 Vera;17
+510550 Vila Bela da Santíssima Trindade;23
+510860 Vila Rica;18
+520005 Abadia de Goiás;14
+520010 Abadiânia;14
+520013 Acreúna;27
+520015 Adelândia;3
+520017 Água Fria de Goiás;5
+520020 Água Limpa;4
+520025 Águas Lindas de Goiás;60
+520030 Alexânia;28
+520050 Aloândia;3
+520055 Alto Horizonte;5
+520060 Alto Paraíso de Goiás;8
+520080 Alvorada do Norte;16
+520082 Amaralina;4
+520085 Americano do Brasil;6
+520090 Amorinópolis;4
+520110 Anápolis;473
+520120 Anhanguera;3
+520130 Anicuns;28
+520140 Aparecida de Goiânia;288
+520145 Aparecida do Rio Doce;3
+520150 Aporé;4
+520160 Araçu;11
+520170 Aragarças;27
+520180 Aragoiânia;11
+520215 Araguapaz;7
+520235 Arenópolis;4
+520250 Aruanã;9
+520260 Aurilândia;7
+520280 Avelinópolis;4
+520310 Baliza;12
+520320 Barro Alto;9
+520330 Bela Vista de Goiás;33
+520340 Bom Jardim de Goiás;13
+520350 Bom Jesus de Goiás;43
+520355 Bonfinópolis;8
+520357 Bonópolis;4
+520360 Brazabrantes;4
+520380 Britânia;8
+520390 Buriti Alegre;12
+520393 Buriti de Goiás;6
+520396 Buritinópolis;4
+520400 Cabeceiras;8
+520410 Cachoeira Alta;11
+520420 Cachoeira de Goiás;3
+520425 Cachoeira Dourada;11
+520430 Caçu;25
+520440 Caiapônia;17
+520450 Caldas Novas;171
+520455 Caldazinha;3
+520460 Campestre de Goiás;2
+520465 Campinaçu;8
+520470 Campinorte;20
+520480 Campo Alegre de Goiás;7
+520485 Campo Limpo de Goiás;4
+520490 Campos Belos;23
+520495 Campos Verdes;4
+520500 Carmo do Rio Verde;8
+520505 Castelândia;5
+520510 Catalão;500
+520520 Caturaí;7
+520530 Cavalcante;8
+520540 Ceres;151
+520545 Cezarina;13
+520547 Chapadão do Céu;12
+520549 Cidade Ocidental;40
+520551 Cocalzinho de Goiás;15
+520552 Colinas do Sul;7
+520570 Córrego do Ouro;4
+520580 Corumbá de Goiás;12
+520590 Corumbaíba;10
+520620 Cristalina;58
+520630 Cristianópolis;4
+520640 Crixás;40
+520650 Cromínia;9
+520660 Cumari;4
+520670 Damianópolis;5
+520680 Damolândia;9
+520690 Davinópolis;3
+520710 Diorama;3
+520830 Divinópolis de Goiás;6
+520725 Doverlândia;7
+520735 Edealina;8
+520740 Edéia;20
+520750 Estrela do Norte;4
+520753 Faina;8
+520760 Fazenda Nova;6
+520780 Firminópolis;14
+520790 Flores de Goiás;11
+520800 Formosa;130
+520810 Formoso;9
+520815 Gameleira de Goiás;7
+520840 Goianápolis;13
+520850 Goiandira;5
+520860 Goianésia;102
+520870 Goiânia;3564
+520880 Goianira;40
+520890 Goiás;36
+520910 Goiatuba;111
+520915 Gouvelândia;5
+520920 Guapó;18
+520929 Guaraíta;4
+520940 Guarani de Goiás;4
+520945 Guarinos;3
+520960 Heitoraí;6
+520970 Hidrolândia;27
+520980 Hidrolina;8
+520990 Iaciara;9
+520993 Inaciolândia;9
+520995 Indiara;19
+521000 Inhumas;82
+521010 Ipameri;79
+521015 Ipiranga de Goiás;4
+521020 Iporá;70
+521030 Israelândia;5
+521040 Itaberaí;49
+521056 Itaguari;7
+521060 Itaguaru;11
+521080 Itajá;7
+521090 Itapaci;23
+521100 Itapirapuã;9
+521120 Itapuranga;34
+521130 Itarumã;7
+521140 Itauçu;8
+521150 Itumbiara;510
+521160 Ivolândia;6
+521170 Jandaia;7
+521180 Jaraguá;48
+521190 Jataí;212
+521200 Jaupaci;3
+521205 Jesúpolis;3
+521210 Joviânia;9
+521220 Jussara;31
+521225 Lagoa Santa;3
+521230 Leopoldo de Bulhões;7
+521250 Luziânia;267
+521260 Mairipotaba;4
+521270 Mambaí;7
+521280 Mara Rosa;19
+521290 Marzagão;3
+521295 Matrinchã;7
+521300 Maurilândia;12
+521305 Mimoso de Goiás;4
+521308 Minaçu;32
+521310 Mineiros;107
+521340 Moiporá;6
+521350 Monte Alegre de Goiás;9
+521370 Montes Claros de Goiás;11
+521375 Montividiu;13
+521377 Montividiu do Norte;6
+521380 Morrinhos;77
+521385 Morro Agudo de Goiás;3
+521390 Mossâmedes;7
+521400 Mozarlândia;17
+521405 Mundo Novo;6
+521410 Mutunópolis;6
+521440 Nazário;9
+521450 Nerópolis;27
+521460 Niquelândia;49
+521470 Nova América;5
+521480 Nova Aurora;4
+521483 Nova Crixás;11
+521486 Nova Glória;5
+521487 Nova Iguaçu de Goiás;2
+521490 Nova Roma;6
+521500 Nova Veneza;8
+521520 Novo Brasil;5
+521523 Novo Gama;40
+521525 Novo Planalto;5
+521530 Orizona;34
+521540 Ouro Verde de Goiás;6
+521550 Ouvidor;10
+521560 Padre Bernardo;24
+521565 Palestina de Goiás;3
+521570 Palmeiras de Goiás;30
+521580 Palmelo;6
+521590 Palminópolis;8
+521600 Panamá;3
+521630 Paranaiguara;13
+521640 Paraúna;20
+521645 Perolândia;4
+521680 Petrolina de Goiás;11
+521690 Pilar de Goiás;4
+521710 Piracanjuba;32
+521720 Piranhas;10
+521730 Pirenópolis;33
+521740 Pires do Rio;71
+521760 Planaltina;55
+521770 Pontalina;29
+521800 Porangatu;74
+521805 Porteirão;7
+521810 Portelândia;3
+521830 Posse;31
+521839 Professor Jamil;6
+521850 Quirinópolis;125
+521860 Rialma;16
+521870 Rianápolis;3
+521878 Rio Quente;7
+521880 Rio Verde;786
+521890 Rubiataba;39
+521900 Sanclerlândia;11
+521910 Santa Bárbara de Goiás;5
+521920 Santa Cruz de Goiás;4
+521925 Santa Fé de Goiás;4
+521930 Santa Helena de Goiás;59
+521935 Santa Isabel;3
+521940 Santa Rita do Araguaia;4
+521945 Santa Rita do Novo Destino;5
+521950 Santa Rosa de Goiás;3
+521960 Santa Tereza de Goiás;4
+521970 Santa Terezinha de Goiás;10
+521971 Santo Antônio da Barra;3
+521973 Santo Antônio de Goiás;5
+521975 Santo Antônio do Descoberto;41
+521980 São Domingos;9
+521990 São Francisco de Goiás;5
+522000 São João d'Aliança;12
+522005 São João da Paraúna;3
+522010 São Luís de Montes Belos;67
+522015 São Luíz do Norte;8
+522020 São Miguel do Araguaia;41
+522026 São Miguel do Passa Quatro;7
+522028 São Patrício;2
+522040 São Simão;42
+522045 Senador Canedo;99
+522050 Serranópolis;9
+522060 Silvânia;28
+522068 Simolândia;5
+522070 Sítio d'Abadia;4
+522100 Taquaral de Goiás;6
+522108 Teresina de Goiás;5
+522119 Terezópolis de Goiás;6
+522130 Três Ranchos;7
+522140 Trindade;101
+522145 Trombas;7
+522150 Turvânia;7
+522155 Turvelândia;4
+522157 Uirapuru;3
+522160 Uruaçu;88
+522170 Uruana;14
+522180 Urutaí;3
+522185 Valparaíso de Goiás;107
+522190 Varjão;4
+522200 Vianópolis;14
+522205 Vicentinópolis;11
+522220 Vila Boa;6
+522230 Vila Propício;5
+530010 Brasília;3107
+Total;337862
+ ;
